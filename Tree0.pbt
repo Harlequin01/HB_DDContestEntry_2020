@@ -24,6 +24,7 @@ Objects {
   ChildIds: 11613208383322711775
   ChildIds: 10191059173245586860
   ChildIds: 5360131654098735816
+  ChildIds: 9076135064148473241
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33,6 +34,32 @@ Objects {
     Value: "mc:evisibilitysetting:forceon"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 9076135064148473241
+  Name: "Andrew\'s Work"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Andrew\'s Work"
   }
 }
 Objects {
