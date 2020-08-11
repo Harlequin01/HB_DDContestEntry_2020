@@ -19,7 +19,7 @@ Objects {
   ChildIds: 5628166357863187692
   ChildIds: 413991195585998862
   ChildIds: 6052477552364043076
-  ChildIds: 7463321092109403453
+  ChildIds: 313301586545863773
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32,13 +32,10 @@ Objects {
   }
 }
 Objects {
-  Id: 7463321092109403453
-  Name: "Barrier Concrete 01"
+  Id: 313301586545863773
+  Name: "Andrew\'s Stuff"
   Transform {
     Location {
-      X: -4745
-      Y: -25
-      Z: 25
     }
     Rotation {
     }
@@ -55,19 +52,9 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  CoreMesh {
-    MeshAsset {
-      Id: 1996599070617773887
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Andrew\'s Stuff"
   }
 }
 Objects {
