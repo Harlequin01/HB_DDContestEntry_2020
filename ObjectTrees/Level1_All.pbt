@@ -1,23 +1,23 @@
-Name: "Walls_2"
-RootId: 13690723108590033856
+Name: "Level1_All"
+RootId: 7958864322369416375
 Objects {
-  Id: 3223837431228337025
-  Name: "Whitebox Wall 01 Half - Window 1x Square Template "
+  Id: 16181202709222281751
+  Name: "Level1_Ceiling"
   Transform {
     Location {
-      X: 2300
-      Y: 800
+      X: -600
+      Y: -1200
+      Z: 460
     }
     Rotation {
-      Yaw: -90
     }
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: -1
     }
   }
-  ParentId: 13690723108590033856
+  ParentId: 7958864322369416375
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -25,19 +25,19 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Folder {
-    IsGroup: true
+    IsFilePartition: true
+    FilePartitionName: "Level1_Ceiling"
   }
 }
 Objects {
-  Id: 13953777606708754962
-  Name: "Whitebox Wall 01 Half - Window 1x Square Template "
+  Id: 12800015505798122078
+  Name: "Level1_Floor"
   Transform {
     Location {
-      X: 2300
-      Y: -800
+      X: -600
+      Y: -1200
     }
     Rotation {
-      Yaw: 89.9999542
     }
     Scale {
       X: 1
@@ -45,7 +45,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13690723108590033856
+  ParentId: 7958864322369416375
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -53,19 +53,20 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Folder {
-    IsGroup: true
+    IsFilePartition: true
+    FilePartitionName: "Level1_Floor"
   }
 }
 Objects {
-  Id: 10879504499408984319
-  Name: "Whitebox Wall 01 - Window 3x Rounded Straight Template"
+  Id: 5589907133816059980
+  Name: "Level1_Walls"
   Transform {
     Location {
-      X: -1000
-      Y: 800
+      X: 800
+      Y: 600
+      Z: 200
     }
     Rotation {
-      Yaw: -90
     }
     Scale {
       X: 1
@@ -73,7 +74,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13690723108590033856
+  ParentId: 7958864322369416375
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -81,6 +82,7 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Folder {
-    IsGroup: true
+    IsFilePartition: true
+    FilePartitionName: "Level1_Walls"
   }
 }

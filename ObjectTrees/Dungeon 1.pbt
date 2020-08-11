@@ -1,130 +1,6 @@
 Name: "Dungeon 1"
 RootId: 14151905075396227886
 Objects {
-  Id: 11126368668072779248
-  Name: "Healing Zone"
-  Transform {
-    Location {
-      X: 2450
-      Y: -1000
-      Z: 24.9997559
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 14151905075396227886
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6525672248640690063
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Healing Zone"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 4800
-            Y: -1600
-            Z: 24.9997559
-          }
-        }
-        Overrides {
-          Name: "cs:HealthChange"
-          Float: -30
-        }
-        Overrides {
-          Name: "cs:ChangeRate"
-          Float: 1.2
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16707471551379966800
-    }
-  }
-}
-Objects {
-  Id: 3868260292217864269
-  Name: "Poison Zone"
-  Transform {
-    Location {
-      X: 1600
-      Y: -2175
-      Z: 25
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 14151905075396227886
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 11809434864792108708
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Poison Zone"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 1600
-            Y: -1000
-            Z: 25
-          }
-        }
-        Overrides {
-          Name: "cs:HealthChange"
-          Float: 20
-        }
-        Overrides {
-          Name: "cs:ChangeRate"
-          Float: 3
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 10606543271707601197
-    }
-  }
-}
-Objects {
   Id: 13644944906239954175
   Name: "NPC Camp - Player Proximity"
   Transform {
@@ -144,8 +20,6 @@ Objects {
   ParentId: 14151905075396227886
   ChildIds: 8178016214042736647
   ChildIds: 185319592799010825
-  ChildIds: 8268958420298357943
-  ChildIds: 11388335863857308980
   ChildIds: 18253259913445446687
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -352,84 +226,6 @@ Objects {
   }
 }
 Objects {
-  Id: 11388335863857308980
-  Name: "OutsideTrigger"
-  Transform {
-    Location {
-      X: 1130
-      Z: 250
-    }
-    Rotation {
-    }
-    Scale {
-      X: 57.2000122
-      Y: 15
-      Z: 5.3
-    }
-  }
-  ParentId: 13644944906239954175
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Trigger {
-    TeamSettings {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    TriggerShape_v2 {
-      Value: "mc:etriggershape:box"
-    }
-  }
-  InstanceHistory {
-    SelfId: 4806734540094998173
-    SubobjectId: 6595767621556427337
-    InstanceId: 6922697643248069676
-    TemplateId: 17510640320964350980
-  }
-}
-Objects {
-  Id: 8268958420298357943
-  Name: "InsideTrigger"
-  Transform {
-    Location {
-      X: -220
-      Z: 260
-    }
-    Rotation {
-    }
-    Scale {
-      X: 5.3
-      Y: 14.5
-      Z: 5
-    }
-  }
-  ParentId: 13644944906239954175
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Trigger {
-    TeamSettings {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    TriggerShape_v2 {
-      Value: "mc:etriggershape:box"
-    }
-  }
-  InstanceHistory {
-    SelfId: 3844745627836601766
-    SubobjectId: 3199644718790969714
-    InstanceId: 6922697643248069676
-    TemplateId: 17510640320964350980
-  }
-}
-Objects {
   Id: 185319592799010825
   Name: "NPCCampBehavior_PlayerProximity"
   Transform {
@@ -567,8 +363,6 @@ Objects {
   ParentId: 14151905075396227886
   ChildIds: 17430518322070343743
   ChildIds: 12951483151525158712
-  ChildIds: 3844745627836601766
-  ChildIds: 4806734540094998173
   ChildIds: 9085467631056938089
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -723,84 +517,6 @@ Objects {
   }
 }
 Objects {
-  Id: 4806734540094998173
-  Name: "OutsideTrigger"
-  Transform {
-    Location {
-      X: 520
-      Z: 250
-    }
-    Rotation {
-    }
-    Scale {
-      X: 39.8
-      Y: 15
-      Z: 5.3
-    }
-  }
-  ParentId: 16272996561794024645
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Trigger {
-    TeamSettings {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    TriggerShape_v2 {
-      Value: "mc:etriggershape:box"
-    }
-  }
-  InstanceHistory {
-    SelfId: 4806734540094998173
-    SubobjectId: 6595767621556427337
-    InstanceId: 6922697643248069676
-    TemplateId: 17510640320964350980
-  }
-}
-Objects {
-  Id: 3844745627836601766
-  Name: "InsideTrigger"
-  Transform {
-    Location {
-      X: -250
-      Z: 260
-    }
-    Rotation {
-    }
-    Scale {
-      X: 5
-      Y: 14.4999943
-      Z: 5
-    }
-  }
-  ParentId: 16272996561794024645
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Trigger {
-    TeamSettings {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    TriggerShape_v2 {
-      Value: "mc:etriggershape:box"
-    }
-  }
-  InstanceHistory {
-    SelfId: 3844745627836601766
-    SubobjectId: 3199644718790969714
-    InstanceId: 6922697643248069676
-    TemplateId: 17510640320964350980
-  }
-}
-Objects {
   Id: 12951483151525158712
   Name: "NPCCampBehavior_PlayerProximity"
   Transform {
@@ -919,116 +635,6 @@ Objects {
   }
 }
 Objects {
-  Id: 3042416142132537250
-  Name: "Healing Zone"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 14151905075396227886
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6525672248640690063
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Healing Zone"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 2450
-            Y: -1000
-            Z: 24.9997559
-          }
-        }
-        Overrides {
-          Name: "cs:HealthChange"
-          Float: -30
-        }
-        Overrides {
-          Name: "cs:ChangeRate"
-          Float: 1.2
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16707471551379966800
-    }
-  }
-}
-Objects {
-  Id: 11814786104627475507
-  Name: "Poison Zone"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 14151905075396227886
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 11809434864792108708
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Poison Zone"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 1600
-            Y: -2175
-            Z: 25
-          }
-        }
-        Overrides {
-          Name: "cs:HealthChange"
-          Float: 20
-        }
-        Overrides {
-          Name: "cs:ChangeRate"
-          Float: 3
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 10606543271707601197
-    }
-  }
-}
-Objects {
   Id: 10477301714579250983
   Name: "Teleporter"
   Transform {
@@ -1049,7 +655,6 @@ Objects {
   ChildIds: 12653884479471420712
   ChildIds: 12701471718250384948
   ChildIds: 10068222720756086473
-  ChildIds: 7034847196579303596
   UnregisteredParameters {
     Overrides {
       Name: "cs:Target"
@@ -1118,48 +723,6 @@ Objects {
   }
 }
 Objects {
-  Id: 7034847196579303596
-  Name: "Trigger"
-  Transform {
-    Location {
-      Z: 75
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1.5
-      Y: 1.5
-      Z: 2
-    }
-  }
-  ParentId: 10477301714579250983
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Trigger {
-    Interactable: true
-    InteractionLabel: "Teleport Back to Lobby"
-    TeamSettings {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    TriggerShape_v2 {
-      Value: "mc:etriggershape:capsule"
-    }
-  }
-  InstanceHistory {
-    SelfId: 7034847196579303596
-    SubobjectId: 10724094219624853734
-    InstanceId: 850089935983832735
-    TemplateId: 4378457362272202845
-  }
-}
-Objects {
   Id: 10068222720756086473
   Name: "Geo"
   Transform {
@@ -1174,8 +737,6 @@ Objects {
     }
   }
   ParentId: 10477301714579250983
-  ChildIds: 2863726580982695946
-  ChildIds: 5495880007659359824
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1190,124 +751,6 @@ Objects {
   InstanceHistory {
     SelfId: 10068222720756086473
     SubobjectId: 9136376097970247299
-    InstanceId: 850089935983832735
-    TemplateId: 4378457362272202845
-  }
-}
-Objects {
-  Id: 5495880007659359824
-  Name: "Pipe (thin)"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1.8
-      Y: 1.8
-      Z: 0.1
-    }
-  }
-  ParentId: 10068222720756086473
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 10184847056121543272
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.955973685
-        G: 0.356400251
-        B: 0.010329823
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceoff"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 5836430349218932838
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 5495880007659359824
-    SubobjectId: 13345897567028325914
-    InstanceId: 850089935983832735
-    TemplateId: 4378457362272202845
-  }
-}
-Objects {
-  Id: 2863726580982695946
-  Name: "Cylinder - Rounded Bottom-Aligned"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 2
-      Y: 2
-      Z: 0.05
-    }
-  }
-  ParentId: 10068222720756086473
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 10184847056121543272
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.205078766
-        G: 0.205078766
-        B: 0.205078766
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13629958479359906438
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 2863726580982695946
-    SubobjectId: 15189918855055894592
     InstanceId: 850089935983832735
     TemplateId: 4378457362272202845
   }
@@ -1570,7 +1013,6 @@ Objects {
   }
   ParentId: 3328174850616234715
   ChildIds: 6955738159611977264
-  ChildIds: 9255311575828213850
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1584,47 +1026,6 @@ Objects {
   InstanceHistory {
     SelfId: 11401279874230664308
     SubobjectId: 11547596356089379165
-    InstanceId: 11968673528157845015
-    TemplateId: 5984235938909643820
-  }
-}
-Objects {
-  Id: 9255311575828213850
-  Name: "ZoneTrigger"
-  Transform {
-    Location {
-      Y: -150
-      Z: 170
-    }
-    Rotation {
-    }
-    Scale {
-      X: 79.5
-      Y: 18.0000019
-      Z: 3
-    }
-  }
-  ParentId: 1116044700664008054
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Trigger {
-    TeamSettings {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    TriggerShape_v2 {
-      Value: "mc:etriggershape:box"
-    }
-  }
-  InstanceHistory {
-    SelfId: 7029138088954130018
-    SubobjectId: 6914351225150253899
     InstanceId: 11968673528157845015
     TemplateId: 5984235938909643820
   }
@@ -1701,8 +1102,6 @@ Objects {
     }
   }
   ParentId: 14151905075396227886
-  ChildIds: 1951804762825103949
-  ChildIds: 17748354539860347172
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1713,102 +1112,5 @@ Objects {
   }
   Folder {
     IsGroup: true
-  }
-}
-Objects {
-  Id: 17748354539860347172
-  Name: "Pipe (thin)"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1.8
-      Y: 1.8
-      Z: 0.1
-    }
-  }
-  ParentId: 241860503888567165
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 10184847056121543272
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceoff"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 5836430349218932838
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 1951804762825103949
-  Name: "Cylinder - Rounded Bottom-Aligned"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 2
-      Y: 2
-      Z: 0.05
-    }
-  }
-  ParentId: 241860503888567165
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 10184847056121543272
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.205078766
-        G: 0.205078766
-        B: 0.205078766
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13629958479359906438
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
   }
 }

@@ -1,63 +1,6 @@
 Name: "Boss Area_1"
 RootId: 1333094107119040141
 Objects {
-  Id: 1751712802868677753
-  Name: "Object Spawner"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1333094107119040141
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 12095495588624637575
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Object Spawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 9400
-            Y: 2200
-            Z: 20.000061
-          }
-        }
-        Overrides {
-          Name: "cs:RespawnDelay"
-          Float: 10
-        }
-        Overrides {
-          Name: "cs:ObjectAssetReference"
-          AssetReference {
-            Id: 893632545040151548
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 7013148133446455782
-    }
-  }
-}
-Objects {
   Id: 3416574036588752957
   Name: "NPC Camp - Player Proximity"
   Transform {
@@ -77,8 +20,6 @@ Objects {
   ParentId: 1333094107119040141
   ChildIds: 4565229227823326407
   ChildIds: 9008253230560193472
-  ChildIds: 18150650113234362718
-  ChildIds: 10091339999747617381
   ChildIds: 12729784401389834385
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -277,84 +218,6 @@ Objects {
   }
 }
 Objects {
-  Id: 10091339999747617381
-  Name: "OutsideTrigger"
-  Transform {
-    Location {
-      Z: 150
-    }
-    Rotation {
-    }
-    Scale {
-      X: 39.0000038
-      Y: 33
-      Z: 8
-    }
-  }
-  ParentId: 3416574036588752957
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Trigger {
-    TeamSettings {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    TriggerShape_v2 {
-      Value: "mc:etriggershape:box"
-    }
-  }
-  InstanceHistory {
-    SelfId: 10091339999747617381
-    SubobjectId: 6595767621556427337
-    InstanceId: 14934332381140843511
-    TemplateId: 17510640320964350980
-  }
-}
-Objects {
-  Id: 18150650113234362718
-  Name: "InsideTrigger"
-  Transform {
-    Location {
-      X: -800
-      Y: -450
-      Z: 150
-    }
-    Rotation {
-    }
-    Scale {
-      X: 15.000001
-      Y: 16
-      Z: 5
-    }
-  }
-  ParentId: 3416574036588752957
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Trigger {
-    TeamSettings {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    TriggerShape_v2 {
-      Value: "mc:etriggershape:box"
-    }
-  }
-  InstanceHistory {
-    SelfId: 18150650113234362718
-    SubobjectId: 3199644718790969714
-    InstanceId: 14934332381140843511
-    TemplateId: 17510640320964350980
-  }
-}
-Objects {
   Id: 9008253230560193472
   Name: "NPCCampBehavior_PlayerProximity"
   Transform {
@@ -470,97 +333,6 @@ Objects {
     SubobjectId: 16778591679197383915
     InstanceId: 14934332381140843511
     TemplateId: 17510640320964350980
-  }
-}
-Objects {
-  Id: 12499234007934178310
-  Name: "Double Door"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1333094107119040141
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 8894395015169495762
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Double Door"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 6000
-            Y: 580
-            Z: 30
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 179.999939
-          }
-        }
-        Overrides {
-          Name: "cs:AutoOpen"
-          Bool: true
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 1216660669670385720
-    }
-  }
-}
-Objects {
-  Id: 17736104575007028010
-  Name: "Fantasy Castle Wall 02 - Doorway 02"
-  Transform {
-    Location {
-      X: 6000
-      Y: 800
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1333094107119040141
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11432305031592539291
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
   }
 }
 Objects {
@@ -700,7 +472,6 @@ Objects {
   }
   ParentId: 11784985350805841431
   ChildIds: 826774183011546444
-  ChildIds: 5051096433470909332
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -714,47 +485,6 @@ Objects {
   InstanceHistory {
     SelfId: 11401279874230664308
     SubobjectId: 11547596356089379165
-    InstanceId: 11968673528157845015
-    TemplateId: 5984235938909643820
-  }
-}
-Objects {
-  Id: 5051096433470909332
-  Name: "ZoneTrigger"
-  Transform {
-    Location {
-      Y: -150
-      Z: 170
-    }
-    Rotation {
-    }
-    Scale {
-      X: 36.6000023
-      Y: 38.6000137
-      Z: 3.80000091
-    }
-  }
-  ParentId: 3814040307558675679
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Trigger {
-    TeamSettings {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    TriggerShape_v2 {
-      Value: "mc:etriggershape:box"
-    }
-  }
-  InstanceHistory {
-    SelfId: 7029138088954130018
-    SubobjectId: 6914351225150253899
     InstanceId: 11968673528157845015
     TemplateId: 5984235938909643820
   }
