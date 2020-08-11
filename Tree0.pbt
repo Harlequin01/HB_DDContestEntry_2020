@@ -48,6 +48,9 @@ Objects {
   Name: "Andrew\'s Stuff"
   Transform {
     Location {
+      X: -4745
+      Y: -25
+      Z: 25
     }
     Rotation {
     }

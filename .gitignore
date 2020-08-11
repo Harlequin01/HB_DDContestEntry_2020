@@ -1,6 +1,8 @@
-#Exports folder is entirely generated
+# Exports folder is entirely generated
 Exports/
-#User settings are per user
+
+# User settings are per user
 UserSettings/
-#Local Player Storage
+
+# Local storage for testing persistent storage
 Storage/
