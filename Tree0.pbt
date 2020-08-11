@@ -24,7 +24,6 @@ Objects {
   ChildIds: 11613208383322711775
   ChildIds: 10191059173245586860
   ChildIds: 5360131654098735816
-  ChildIds: 313301586545863773
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -44,10 +43,6 @@ Objects {
       X: -2200
       Y: 1000
       Z: 30
-  Id: 313301586545863773
-  Name: "Andrew\'s Stuff"
-  Transform {
-    Location {
     }
     Rotation {
     }
@@ -244,9 +239,6 @@ Objects {
       Physics {
       }
     }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Andrew\'s Stuff"
   }
 }
 Objects {
