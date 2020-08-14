@@ -1,6 +1,47 @@
 Name: "Level1_Walls"
 RootId: 5589907133816059980
 Objects {
+  Id: 3193554950799344651
+  Name: "Plane 4m - One Sided"
+  Transform {
+    Location {
+      X: -1800.00037
+      Y: -1400
+      Z: 30.0002136
+    }
+    Rotation {
+      Yaw: 89.999939
+      Roll: -90
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5589907133816059980
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3129102739812703721
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 1164923099327066917
   Name: "Plane 4m - One Sided"
   Transform {
@@ -7797,215 +7838,6 @@ Objects {
       Pitch: 5.46415104e-05
       Yaw: 179.999954
       Roll: 89.999939
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5589907133816059980
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 3129102739812703721
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 5880833612099094184
-  Name: "Plane 4m - One Sided"
-  Transform {
-    Location {
-      X: -1000
-      Y: -1400
-      Z: 30.0001068
-    }
-    Rotation {
-      Pitch: 90
-      Yaw: 13.2626925
-      Roll: -166.737228
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5589907133816059980
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 3129102739812703721
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 18394451252468150632
-  Name: "Plane 4m - One Sided"
-  Transform {
-    Location {
-      X: -1200
-      Y: -1600
-      Z: 30.0001068
-    }
-    Rotation {
-      Pitch: 90
-      Yaw: -153.434952
-      Roll: 116.565155
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5589907133816059980
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 3129102739812703721
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 6836600219854969478
-  Name: "Plane 4m - One Sided"
-  Transform {
-    Location {
-      X: -1599.99951
-      Y: -1599.99951
-      Z: 30.0002136
-    }
-    Rotation {
-      Yaw: -0.000122070313
-      Roll: -89.999939
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5589907133816059980
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 3129102739812703721
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 17033974245284470587
-  Name: "Plane 4m - One Sided"
-  Transform {
-    Location {
-      X: -1600
-      Y: -1200
-      Z: 30.0001068
-    }
-    Rotation {
-      Pitch: 90
-      Yaw: -7.12503052
-      Roll: 82.8749847
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5589907133816059980
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 3129102739812703721
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 2656369746499498256
-  Name: "Plane 4m - One Sided"
-  Transform {
-    Location {
-      X: -1200.00049
-      Y: -1200.00024
-      Z: 30.0001984
-    }
-    Rotation {
-      Pitch: 6.83018879e-06
-      Yaw: 179.999939
-      Roll: -90
     }
     Scale {
       X: 1

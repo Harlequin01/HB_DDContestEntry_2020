@@ -22,9 +22,9 @@ Objects {
   ChildIds: 14142536138157333816
   ChildIds: 7958864322369416375
   ChildIds: 11613208383322711775
-  ChildIds: 10191059173245586860
+  ChildIds: 2465095332461406525
   ChildIds: 5360131654098735816
-  ChildIds: 15917410435188378348
+  ChildIds: 1511497139998336361
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -37,10 +37,13 @@ Objects {
   }
 }
 Objects {
-  Id: 15917410435188378348
-  Name: "JRFolder"
+  Id: 1511497139998336361
+  Name: "H_ForestTerrain"
   Transform {
     Location {
+      X: -14615.7178
+      Y: 25240.0859
+      Z: -1356.37012
     }
     Rotation {
     }
@@ -52,14 +55,18 @@ Objects {
   }
   ParentId: 4781671109827199097
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceon"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "JRFolder"
+  Terrain {
+    Material {
+      Id: 841534158063459245
+    }
+    VoxelSize: 50
+    OctreeDepth: 5
+    GeneratorID: "DEPRECATED"
   }
 }
 Objects {
@@ -113,8 +120,8 @@ Objects {
   }
 }
 Objects {
-  Id: 10191059173245586860
-  Name: "Level2_Floor"
+  Id: 2465095332461406525
+  Name: "H_Level2"
   Transform {
     Location {
       X: -800
@@ -137,7 +144,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Level2_Floor"
+    FilePartitionName: "H_Level2"
   }
 }
 Objects {
@@ -192,11 +199,12 @@ Objects {
 }
 Objects {
   Id: 7958864322369416375
-  Name: "Level1_All"
+  Name: "H_Level1_All"
   Transform {
     Location {
       X: -1000
       Y: 2200
+      Z: -1347.82031
     }
     Rotation {
     }
@@ -208,14 +216,14 @@ Objects {
   }
   ParentId: 4781671109827199097
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
+    Value: "mc:evisibilitysetting:forceoff"
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Level1_All"
+    FilePartitionName: "H_Level1_All"
   }
 }
 Objects {
