@@ -5,8 +5,8 @@ Objects {
   Name: "Teleporter"
   Transform {
     Location {
-      X: -2625
-      Z: 25.2539444
+      X: -4696.6582
+      Z: 25.2539368
     }
     Rotation {
     }
@@ -409,9 +409,9 @@ Objects {
   Name: "Teleporter"
   Transform {
     Location {
-      X: -2625
-      Y: -1600
-      Z: 25.2539444
+      X: -4696.6582
+      Y: -241.459595
+      Z: 25.2539368
     }
     Rotation {
     }
@@ -814,9 +814,9 @@ Objects {
   Name: "Teleporter"
   Transform {
     Location {
-      X: -2625
-      Y: 1600
-      Z: 25.2539444
+      X: -4696.6582
+      Y: 254.24585
+      Z: 25.2539368
     }
     Rotation {
     }
@@ -1219,11 +1219,12 @@ Objects {
   Name: "Dungeon Portal"
   Transform {
     Location {
-      X: -2300
-      Y: 1500
+      X: -4653.9917
+      Y: 600.000366
       Z: 25
     }
     Rotation {
+      Yaw: 89.9999619
     }
     Scale {
       X: 1
@@ -1413,11 +1414,12 @@ Objects {
   Name: "Dungeon Portal"
   Transform {
     Location {
-      X: -2300
-      Y: -100
+      X: -4038.32764
+      Y: 600.000244
       Z: 25
     }
     Rotation {
+      Yaw: 89.9999619
     }
     Scale {
       X: 1
@@ -1632,11 +1634,12 @@ Objects {
   Name: "Dungeon Portal"
   Transform {
     Location {
-      X: -2300
-      Y: -1700
+      X: -3400
+      Y: 600
       Z: 25
     }
     Rotation {
+      Yaw: 89.9999771
     }
     Scale {
       X: 1
