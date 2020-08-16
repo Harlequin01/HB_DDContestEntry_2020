@@ -18,6 +18,7 @@ Objects {
   }
   ParentId: 413991195585998862
   ChildIds: 4261340250641796324
+  ChildIds: 8085868594346283653
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -28,6 +29,37 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+}
+Objects {
+  Id: 8085868594346283653
+  Name: "KillTrigger"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6269342187725287856
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Trigger {
+    TeamSettings {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    TriggerShape_v2 {
+      Value: "mc:etriggershape:box"
+    }
   }
 }
 Objects {
@@ -50,7 +82,7 @@ Objects {
     Overrides {
       Name: "cs:KillTrigger"
       ObjectReference {
-        SelfId: 6202191793116170475
+        SelfId: 8085868594346283653
       }
     }
   }

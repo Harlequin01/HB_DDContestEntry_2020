@@ -11,6 +11,7 @@
 local MODULE = require( script:GetCustomProperty("ModuleManager") )
 function COMBAT() return MODULE:Get("standardcombo.Combat.Wrap") end
 
+local propRuptureVFX = script:GetCustomProperty("ruptureVFX")
 
 local EQUIPMENT = script:FindAncestorByType("Equipment")
 
@@ -65,8 +66,14 @@ function MeleeAttack(other)
 		local pos = (otherPos + meleePos) / 2
 		local rot = Rotation.New(otherPos - meleePos, Vector3.UP)
 		
-		COMBAT().ApplyDamage(other, dmg, ABILITY.owner, pos, rot)
-		
+		COMBAT().ApplyDamage(other, dmg, ABILITY.owner, pos, rot) 
+
+		if (ABILITY.name == "Slash 3") then --apply knockback
+			other.parent:SetWorldPosition(other.parent:GetWorldPosition() - ABILITY.owner:GetWorldTransform():GetForwardVector() * -300)
+			local aiServer = other.parent:FindChildByName("NPCAIServer")
+			--aiServer.context.ModifySpeed(5000)
+		end
+
 		if other:IsA("Player") then
 			Events.BroadcastToAllPlayers("MeleeImpact", ABILITY.id, pos, rot)
 		end
@@ -101,10 +108,15 @@ end
 
 function OnExecute(ability)
     ignoreList = {}
-    canAttack = true
+	canAttack = true
     
-	-- Impulse
-	local v = ability:GetTargetData():GetAimDirection() 
+	-- Impulse and/or knockback
+	local v = ability:GetTargetData():GetAimDirection()
+	if (ability.name == "Slash 3") then
+		local vfxSpawnPos = ability.owner:GetWorldPosition() + ability.owner:GetWorldTransform():GetForwardVector() * 300
+		vfxSpawnPos = vfxSpawnPos + Vector3.New(0, 0, -ability.owner:GetWorldPosition().z)
+		World.SpawnAsset(propRuptureVFX, {position = vfxSpawnPos})
+	end
 	ability.owner:AddImpulse(Vector3.New(v.x * ATTACK_IMPULSE, v.y * ATTACK_IMPULSE, VERTICAL_IMPULSE))
 end
 
