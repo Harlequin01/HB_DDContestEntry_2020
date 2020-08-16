@@ -35,7 +35,8 @@ Objects {
   Name: "Castle Part - Window 01"
   Transform {
     Location {
-      Y: 200
+      X: 7520.98145
+      Y: 199.986816
     }
     Rotation {
     }
@@ -72,6 +73,8 @@ Objects {
   Name: "Fantasy Castle Accessory Roof Window 01 "
   Transform {
     Location {
+      X: 7520.98145
+      Y: -0.0126953125
     }
     Rotation {
     }
@@ -109,7 +112,7 @@ Objects {
   Transform {
     Location {
       X: -7750
-      Y: -1975
+      Y: -9496
     }
     Rotation {
       Yaw: -90
@@ -148,7 +151,7 @@ Objects {
   Transform {
     Location {
       X: -7650
-      Y: -2490
+      Y: -10011
     }
     Rotation {
       Yaw: -89.999939
@@ -187,7 +190,7 @@ Objects {
   Transform {
     Location {
       X: -7800
-      Y: -3240
+      Y: -10761
     }
     Rotation {
       Yaw: -89.999939
@@ -273,9 +276,10 @@ Objects {
   Name: "Fantasy Castle Floor 01 - Curved 4m "
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
-      Yaw: -179.999969
+      Yaw: -179.999954
     }
     Scale {
       X: 1
@@ -310,6 +314,7 @@ Objects {
   Name: "Fantasy Castle Floor 01 - Curved 4m "
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 90.0000153
@@ -347,9 +352,10 @@ Objects {
   Name: "Fantasy Castle Floor 01 - Curved 4m "
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -384,6 +390,7 @@ Objects {
   Name: "Fantasy Castle Floor 01 - Curved 4m "
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
     }
@@ -452,8 +459,8 @@ Objects {
   Name: "Fantasy Castle Floor 01 - Curved 4m Inverted"
   Transform {
     Location {
-      X: 0.000122070313
-      Y: 399.999969
+      X: 7520.98242
+      Y: 399.992676
       Z: 2140
     }
     Rotation {
@@ -500,6 +507,8 @@ Objects {
   Name: "Fantasy Castle Floor 01 - Curved 4m "
   Transform {
     Location {
+      X: 7520.98438
+      Y: -0.00634765625
       Z: 2140
     }
     Rotation {
@@ -574,6 +583,8 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
+      X: 7520.98438
+      Y: -0.00634765625
       Z: 150
     }
     Rotation {
@@ -612,6 +623,8 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
+      X: 7520.98438
+      Y: -0.00634765625
     }
     Rotation {
     }
@@ -678,10 +691,12 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
+      X: 7520.98438
+      Y: -0.00634765625
       Z: 300
     }
     Rotation {
-      Yaw: -179.999969
+      Yaw: -179.999954
     }
     Scale {
       X: 1
@@ -716,10 +731,12 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
+      X: 7520.98438
+      Y: -0.00634765625
       Z: 450
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -754,6 +771,8 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
+      X: 7520.98438
+      Y: -0.00634765625
       Z: 150
     }
     Rotation {
@@ -792,6 +811,8 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
+      X: 7520.98438
+      Y: -0.00634765625
     }
     Rotation {
     }
@@ -858,10 +879,12 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
+      X: 7520.98438
+      Y: -0.00634765625
       Z: 300
     }
     Rotation {
-      Yaw: -179.999969
+      Yaw: -179.999954
     }
     Scale {
       X: 1
@@ -896,10 +919,12 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
+      X: 7520.98438
+      Y: -0.00634765625
       Z: 450
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -934,6 +959,8 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
+      X: 7520.98438
+      Y: -0.00634765625
       Z: 150
     }
     Rotation {
@@ -972,6 +999,8 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
+      X: 7520.98438
+      Y: -0.00634765625
     }
     Rotation {
     }
@@ -1037,10 +1066,12 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
+      X: 7520.98438
+      Y: -0.00634765625
       Z: 300
     }
     Rotation {
-      Yaw: -179.999969
+      Yaw: -179.999954
     }
     Scale {
       X: 1
@@ -1075,10 +1106,12 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
+      X: 7520.98438
+      Y: -0.00634765625
       Z: 450
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -1113,6 +1146,8 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
+      X: 7520.98438
+      Y: -0.00634765625
       Z: 150
     }
     Rotation {
@@ -1151,6 +1186,8 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
+      X: 7520.98438
+      Y: -0.00634765625
     }
     Rotation {
     }
@@ -1188,6 +1225,7 @@ Objects {
   Transform {
     Location {
       X: -400
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 90.0000076
@@ -1225,10 +1263,10 @@ Objects {
   Name: "Fantasy Castle Wall 01 - Curved Doorway"
   Transform {
     Location {
-      Y: 400
+      Y: -7120.99805
     }
     Rotation {
-      Yaw: 6.83018743e-06
+      Yaw: 6.83018698e-06
     }
     Scale {
       X: 1
@@ -1264,6 +1302,7 @@ Objects {
   Transform {
     Location {
       X: 400
+      Y: -7520.99805
     }
     Rotation {
       Yaw: -90
@@ -1302,6 +1341,7 @@ Objects {
   Transform {
     Location {
       X: -400
+      Y: -7520.99805
       Z: 600
     }
     Rotation {
@@ -1340,11 +1380,11 @@ Objects {
   Name: "Fantasy Castle Wall 02 - Curved"
   Transform {
     Location {
-      Y: 400
+      Y: -7120.99805
       Z: 600
     }
     Rotation {
-      Yaw: 6.83018834e-06
+      Yaw: 6.83018789e-06
     }
     Scale {
       X: 1
@@ -1380,6 +1420,7 @@ Objects {
   Transform {
     Location {
       X: 400
+      Y: -7520.99805
       Z: 600
     }
     Rotation {
@@ -1418,11 +1459,11 @@ Objects {
   Name: "Fantasy Castle Wall 02 - Curved Doorway"
   Transform {
     Location {
-      Y: 400
+      Y: -7120.99805
       Z: 1200
     }
     Rotation {
-      Yaw: 6.83018834e-06
+      Yaw: 6.83018789e-06
     }
     Scale {
       X: 1
@@ -1458,6 +1499,7 @@ Objects {
   Transform {
     Location {
       X: 400
+      Y: -7520.99805
       Z: 1200
     }
     Rotation {
@@ -1497,7 +1539,7 @@ Objects {
   Transform {
     Location {
       X: 400
-      Y: -0.000244140625
+      Y: -7520.99805
       Z: 1800
     }
     Rotation {
@@ -1536,11 +1578,11 @@ Objects {
   Name: "Fantasy Castle Wall 03 - Curve Top"
   Transform {
     Location {
-      Y: 400
+      Y: -7120.99805
       Z: 1800
     }
     Rotation {
-      Yaw: 3.41509417e-06
+      Yaw: 3.41509394e-06
     }
     Scale {
       X: 1
@@ -1575,11 +1617,11 @@ Objects {
   Name: "Fantasy Castle Wall 03 - Curve Top"
   Transform {
     Location {
-      Y: -400
+      Y: -7920.99805
       Z: 1800
     }
     Rotation {
-      Yaw: -179.999969
+      Yaw: -179.999954
     }
     Scale {
       X: 1
@@ -1615,6 +1657,7 @@ Objects {
   Transform {
     Location {
       X: -400
+      Y: -7520.99805
       Z: 1800
     }
     Rotation {
@@ -1654,6 +1697,7 @@ Objects {
   Transform {
     Location {
       X: -400
+      Y: -7520.99805
       Z: 1200
     }
     Rotation {
@@ -1692,11 +1736,11 @@ Objects {
   Name: "Fantasy Castle Wall 02 - Curved Window 01"
   Transform {
     Location {
-      Y: -400
+      Y: -7920.99805
       Z: 1200
     }
     Rotation {
-      Yaw: -179.999985
+      Yaw: -179.999969
     }
     Scale {
       X: 1
@@ -1731,11 +1775,11 @@ Objects {
   Name: "Fantasy Castle Wall 02 - Curved"
   Transform {
     Location {
-      Y: -400
+      Y: -7920.99805
       Z: 600
     }
     Rotation {
-      Yaw: -179.999985
+      Yaw: -179.999969
     }
     Scale {
       X: 1
@@ -1770,7 +1814,7 @@ Objects {
   Name: "Fantasy Castle Wall 02 - Curved"
   Transform {
     Location {
-      Y: -400
+      Y: -7920.99805
     }
     Rotation {
       Yaw: 179.999954
@@ -1839,6 +1883,7 @@ Objects {
   Name: "Fantasy Castle Ceiling 01 - Vault 02"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 89.9999313
@@ -1876,6 +1921,7 @@ Objects {
   Name: "Fantasy Castle Ceiling 01 - Vault 02"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: -179.999954
@@ -1913,9 +1959,10 @@ Objects {
   Name: "Fantasy Castle Ceiling 01 - Vault 02"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
-      Yaw: -90.000145
+      Yaw: -90.0001526
     }
     Scale {
       X: 1
@@ -1950,6 +1997,7 @@ Objects {
   Name: "Fantasy Castle Ceiling 01 - Vault 02"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
     }
@@ -1987,7 +2035,7 @@ Objects {
   Transform {
     Location {
       X: -5290
-      Y: 3520
+      Y: 11051.8135
       Z: 30
     }
     Rotation {
@@ -2026,7 +2074,7 @@ Objects {
   Transform {
     Location {
       X: -5770
-      Y: 3510
+      Y: 11041.8135
       Z: 30
     }
     Rotation {

@@ -30,7 +30,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -1375
-            Y: -35
+            Y: 7496.81348
           }
         }
         Overrides {
@@ -76,7 +76,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -760
-            Y: -35
+            Y: 7496.81348
           }
         }
         Overrides {
@@ -135,6 +135,8 @@ Objects {
   Name: "Sconce 02"
   Transform {
     Location {
+      X: 0.00538682193
+      Y: -7531.32129
     }
     Rotation {
     }
@@ -201,12 +203,12 @@ Objects {
   Name: "Candle Flame VFX"
   Transform {
     Location {
-      X: -41.0584564
-      Y: 14.3816833
-      Z: 3.74564362
+      X: -41.0529594
+      Y: -7516.93799
+      Z: 3.74563599
     }
     Rotation {
-      Yaw: 44.8072968
+      Yaw: 44.8072662
     }
     Scale {
       X: 3
@@ -241,8 +243,9 @@ Objects {
   Name: "Point Light"
   Transform {
     Location {
-      X: 0.234558105
-      Z: 7.21635056
+      X: 0.240005895
+      Y: -7531.3208
+      Z: 7.21633911
     }
     Rotation {
     }
@@ -291,9 +294,9 @@ Objects {
   Name: "Candle Flame VFX"
   Transform {
     Location {
-      X: 40.2679
-      Y: 13.7185364
-      Z: 3.99986649
+      X: 40.2731857
+      Y: -7517.60205
+      Z: 3.99987793
     }
     Rotation {
     }
@@ -360,6 +363,8 @@ Objects {
   Name: "Sconce 01"
   Transform {
     Location {
+      X: 0.00538682146
+      Y: -7531.3208
     }
     Rotation {
     }
@@ -425,8 +430,9 @@ Objects {
   Name: "Point Light"
   Transform {
     Location {
-      X: 0.234558105
-      Z: 7.21635056
+      X: 0.239761755
+      Y: -7531.32031
+      Z: 7.21633911
     }
     Rotation {
     }
@@ -475,7 +481,8 @@ Objects {
   Name: "Candle Flame VFX"
   Transform {
     Location {
-      X: -0.234558105
+      X: -0.228988126
+      Y: -7531.32031
     }
     Rotation {
     }
@@ -543,6 +550,8 @@ Objects {
   Name: "Sconce 02"
   Transform {
     Location {
+      X: 0.00538682193
+      Y: -7531.32129
     }
     Rotation {
     }
@@ -609,12 +618,12 @@ Objects {
   Name: "Candle Flame VFX"
   Transform {
     Location {
-      X: -41.0584564
-      Y: 14.3816833
-      Z: 3.74564362
+      X: -41.0529594
+      Y: -7516.93799
+      Z: 3.74563599
     }
     Rotation {
-      Yaw: 44.8072968
+      Yaw: 44.8072662
     }
     Scale {
       X: 3
@@ -649,8 +658,9 @@ Objects {
   Name: "Point Light"
   Transform {
     Location {
-      X: 0.234558105
-      Z: 7.21635056
+      X: 0.240005895
+      Y: -7531.3208
+      Z: 7.21633911
     }
     Rotation {
     }
@@ -699,9 +709,9 @@ Objects {
   Name: "Candle Flame VFX"
   Transform {
     Location {
-      X: 40.2679
-      Y: 13.7185364
-      Z: 3.99986649
+      X: 40.2731857
+      Y: -7517.60205
+      Z: 3.99987793
     }
     Rotation {
     }
@@ -768,6 +778,8 @@ Objects {
   Name: "Sconce 01"
   Transform {
     Location {
+      X: 0.00538682146
+      Y: -7531.3208
     }
     Rotation {
     }
@@ -833,8 +845,9 @@ Objects {
   Name: "Point Light"
   Transform {
     Location {
-      X: 0.234558105
-      Z: 7.21635056
+      X: 0.240005895
+      Y: -7531.32031
+      Z: 7.21633911
     }
     Rotation {
     }
@@ -883,7 +896,8 @@ Objects {
   Name: "Candle Flame VFX"
   Transform {
     Location {
-      X: -0.234558105
+      X: -0.229232267
+      Y: -7531.32031
     }
     Rotation {
     }

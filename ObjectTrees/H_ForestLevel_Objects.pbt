@@ -1,14 +1,16 @@
-Name: "Castle Stairs"
-RootId: 9396540053449293919
+Name: "H_ForestLevel_Objects"
+RootId: 11368275917209628895
 Objects {
-  Id: 10442813191722573441
-  Name: "Fantasy Castle Bannister 01 - Post"
+  Id: 7652940845664811374
+  Name: "Tree Oak 01"
   Transform {
     Location {
-      X: -2850
-      Y: 10631.8135
+      X: -7176.82031
+      Y: -1901.27283
+      Z: 115.186401
     }
     Rotation {
+      Yaw: -76.1483154
     }
     Scale {
       X: 1
@@ -16,7 +18,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9396540053449293919
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -25,7 +27,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 897429753597555270
+      Id: 2568066515504578101
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -39,14 +41,16 @@ Objects {
   }
 }
 Objects {
-  Id: 12417235260118245893
-  Name: "Fantasy Castle Bannister 01 - Spiral"
+  Id: 15195806666808529650
+  Name: "Tree Oak Bare 01"
   Transform {
     Location {
-      X: -2650
-      Y: -11670.998
+      X: -8570.0293
+      Y: -1677.02881
+      Z: 95.9432373
     }
     Rotation {
+      Yaw: 6.5137752e-12
     }
     Scale {
       X: 1
@@ -54,7 +58,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9396540053449293919
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -63,7 +67,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 6651434759116104397
+      Id: 3014338471134798259
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -77,14 +81,18 @@ Objects {
   }
 }
 Objects {
-  Id: 983074157611086438
-  Name: "Fantasy Castle Bannister 01 - Straight"
+  Id: 7967036373921695526
+  Name: "Tree Oak Stump 01"
   Transform {
     Location {
-      X: -3750
-      Y: -10571
+      X: -6618.41309
+      Y: 464.666046
+      Z: 304.123657
     }
     Rotation {
+      Pitch: 14.154726
+      Yaw: 24.5463505
+      Roll: -5.86456299
     }
     Scale {
       X: 1
@@ -92,7 +100,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9396540053449293919
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -101,7 +109,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16956732760613111471
+      Id: 11716761322277259767
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -115,14 +123,16 @@ Objects {
   }
 }
 Objects {
-  Id: 14339099792376938791
-  Name: "Fantasy Castle Bannister 01 - Curve Small"
+  Id: 4272489619612388701
+  Name: "Tree Oak 01"
   Transform {
     Location {
-      X: -2900
-      Y: -10720.998
+      X: -5101.65039
+      Y: -1780.21619
+      Z: 177.609863
     }
     Rotation {
+      Yaw: -76.1483154
     }
     Scale {
       X: 1
@@ -130,7 +140,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9396540053449293919
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -139,7 +149,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 17706334203701286670
+      Id: 2568066515504578101
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -153,14 +163,16 @@ Objects {
   }
 }
 Objects {
-  Id: 5324265577742026926
-  Name: "Fantasy Castle Bannister 01 - Curve Large"
+  Id: 17673127377586088320
+  Name: "Tree Oak 01"
   Transform {
     Location {
-      X: -2750
-      Y: -10771
+      X: -4293.34766
+      Y: 799.832092
+      Z: 179.777954
     }
     Rotation {
+      Yaw: -76.1483154
     }
     Scale {
       X: 1
@@ -168,7 +180,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9396540053449293919
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -177,7 +189,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 8902272366474170444
+      Id: 2568066515504578101
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -191,23 +203,24 @@ Objects {
   }
 }
 Objects {
-  Id: 1948336729708581361
-  Name: "Fantasy Castle Stairs 01 - U"
+  Id: 15717681443714707531
+  Name: "Tree Oak Bare 01"
   Transform {
     Location {
-      X: -6100
-      Y: -11870.998
+      X: 525.463562
+      Y: 1229.67859
+      Z: 201.391479
     }
     Rotation {
-      Yaw: 90.0001831
+      Yaw: 6.51377433e-12
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.820084
+      Y: 0.820084
+      Z: 0.820084
     }
   }
-  ParentId: 9396540053449293919
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -216,7 +229,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 18439275855531757136
+      Id: 3014338471134798259
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -230,22 +243,24 @@ Objects {
   }
 }
 Objects {
-  Id: 3719333372822572160
-  Name: "Fantasy Castle Stairs Spiral Trim 01 - Large"
+  Id: 18150450829362454047
+  Name: "Tree Oak 01"
   Transform {
     Location {
-      X: -2850
-      Y: 11181.8135
+      X: 1562.21033
+      Y: -290.47
+      Z: 179.969727
     }
     Rotation {
+      Yaw: -76.1483765
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.817964792
+      Y: 0.817964792
+      Z: 0.817964792
     }
   }
-  ParentId: 9396540053449293919
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -254,7 +269,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9807975150386039547
+      Id: 2568066515504578101
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -268,14 +283,16 @@ Objects {
   }
 }
 Objects {
-  Id: 13046301306843761338
-  Name: "Fantasy Castle Stairs Spiral Trim 01 - Small"
+  Id: 8113059401388893039
+  Name: "Tree Oak Bare 01"
   Transform {
     Location {
-      X: -3000
-      Y: 11031.8135
+      X: 2238.28589
+      Y: -643.250122
+      Z: 139.850098
     }
     Rotation {
+      Yaw: 6.5137739e-12
     }
     Scale {
       X: 1
@@ -283,7 +300,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9396540053449293919
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -292,7 +309,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 15240646233324917545
+      Id: 3014338471134798259
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -306,14 +323,16 @@ Objects {
   }
 }
 Objects {
-  Id: 4145727836851281251
-  Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+  Id: 9507730973925660974
+  Name: "Tree Oak 01"
   Transform {
     Location {
-      X: -3200
-      Y: 10931.8135
+      X: -1015.89331
+      Y: -1622.74915
+      Z: 249.449097
     }
     Rotation {
+      Yaw: -53.5148315
     }
     Scale {
       X: 1
@@ -321,7 +340,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9396540053449293919
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -330,7 +349,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4286823887220239396
+      Id: 2568066515504578101
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -344,14 +363,16 @@ Objects {
   }
 }
 Objects {
-  Id: 1027084314198058197
-  Name: "Fantasy Castle Stairs 01 - 150cm Corner 01"
+  Id: 8654680340983078095
+  Name: "Tree Oak Bare 01"
   Transform {
     Location {
-      X: -6650
-      Y: -9971
+      X: -170.812332
+      Y: -1536.25671
+      Z: 123.111816
     }
     Rotation {
+      Yaw: 6.51377476e-12
     }
     Scale {
       X: 1
@@ -359,7 +380,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9396540053449293919
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -368,7 +389,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 8126394865409586614
+      Id: 3014338471134798259
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -382,786 +403,28 @@ Objects {
   }
 }
 Objects {
-  Id: 2589107609509243940
-  Name: "Fantasy Castle Stairs 01 - 150cm Corner 02"
+  Id: 14770015325320296652
+  Name: "Arch"
   Transform {
     Location {
-      X: -7150
-      Y: -9221
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9396540053449293919
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17713538497256559866
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 13089060945272664672
-  Name: "Fantasy Castle Stairs 01 - 150cm Corner 03"
-  Transform {
-    Location {
-      X: -7000
-      Y: -9821
-    }
-    Rotation {
-      Yaw: -89.9998169
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9396540053449293919
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13373836452886753359
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 10752570758642585903
-  Name: "Fantasy Castle Stairs Spiral Wall 01 - Large Template"
-  Transform {
-    Location {
-      X: -3650
-      Y: -3000
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9396540053449293919
-  ChildIds: 1665748063174776268
-  ChildIds: 4928497466198657084
-  ChildIds: 12761533467943817564
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 12761533467943817564
-  Name: "Fantasy Castle Stairs Spiral Trim 01 - Large"
-  Transform {
-    Location {
-      Y: -7520.99805
-      Z: 300
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10752570758642585903
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 9807975150386039547
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 4928497466198657084
-  Name: "Fantasy Castle Stairs Spiral Wall 01 - Large"
-  Transform {
-    Location {
-      Y: -7520.99805
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10752570758642585903
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 1707671254600652175
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 1665748063174776268
-  Name: "Fantasy Castle Bannister 01 - Curve Large"
-  Transform {
-    Location {
-      Y: -7520.99805
-      Z: 400
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10752570758642585903
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8902272366474170444
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 3303385870035564997
-  Name: "Fantasy Castle Stairs Spiral 6m"
-  Transform {
-    Location {
-      X: -4800
-      Y: -4300
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9396540053449293919
-  ChildIds: 7787800859452839289
-  ChildIds: 198391535545072290
-  ChildIds: 15169071140626610759
-  ChildIds: 11762870872553361351
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 11762870872553361351
-  Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
-  Transform {
-    Location {
-      Y: -7520.99805
-      Z: 450
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3303385870035564997
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 14823766674395707712
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 15169071140626610759
-  Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
-  Transform {
-    Location {
-      Y: -7520.99805
-      Z: 300
-    }
-    Rotation {
-      Yaw: -89.999939
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3303385870035564997
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 14823766674395707712
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 198391535545072290
-  Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
-  Transform {
-    Location {
-      Y: -7520.99805
-      Z: 150
+      X: 5118.02295
+      Y: -4499.19531
     }
     Rotation {
       Yaw: 179.999954
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 11.2000017
+      Y: 11.2000017
+      Z: 1.99999988
     }
   }
-  ParentId: 3303385870035564997
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 14823766674395707712
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 7787800859452839289
-  Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
-  Transform {
-    Location {
-      Y: -7520.99805
-    }
-    Rotation {
-      Yaw: 89.9999771
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3303385870035564997
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 14823766674395707712
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 5487799738771242297
-  Name: "Fantasy Castle Stairs Spiral 02 with Railing - Large 3m"
-  Transform {
-    Location {
-      X: -5250
-      Y: -3000
-    }
-    Rotation {
-      Yaw: 0.00012294334
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9396540053449293919
-  ChildIds: 16475998220124707271
-  ChildIds: 15305917369127121161
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 15305917369127121161
-  Name: "Fantasy Castle Bannister 01 - Spiral"
-  Transform {
-    Location {
-      X: -0.0161383022
-      Y: -7520.99805
-      Z: 100
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5487799738771242297
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6651434759116104397
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 16475998220124707271
-  Name: "Fantasy Castle Stairs Spiral 02 - Large 3m"
-  Transform {
-    Location {
-      X: -0.0161383022
-      Y: -7520.99805
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5487799738771242297
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 144525533162108388
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 2673253281147054074
-  Name: "Fantasy Castle Stairs Spiral 01 - U Turn 6m Template"
-  Transform {
-    Location {
-      X: -6390
-      Y: -4250
-    }
-    Rotation {
-      Yaw: -89.9996338
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9396540053449293919
-  ChildIds: 7387499546557967402
-  ChildIds: 9125555962591489909
-  ChildIds: 7237004132432151315
-  ChildIds: 9789839540831737313
-  ChildIds: 5710556673943371173
-  ChildIds: 435993417315011509
-  ChildIds: 7475527635581489625
-  ChildIds: 1746981447579479496
-  ChildIds: 9558766925067564070
-  ChildIds: 6208423028130539581
-  ChildIds: 4003894517309759240
-  ChildIds: 7612100543488672608
-  ChildIds: 5541544813309293103
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 5541544813309293103
-  Name: "Fantasy Castle Bannister 01 - Post"
-  Transform {
-    Location {
-      X: 7520.97314
-      Y: -400.044434
-      Z: 300
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2673253281147054074
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 897429753597555270
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 7612100543488672608
-  Name: "Fantasy Castle Bannister 01 - Post"
-  Transform {
-    Location {
-      X: 7920.9873
-      Y: -0.0512695313
-      Z: 600
-    }
-    Rotation {
-      Yaw: -90
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2673253281147054074
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 897429753597555270
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 4003894517309759240
-  Name: "Fantasy Castle Bannister 01 - Post"
-  Transform {
-    Location {
-      X: 8320.98242
-      Y: -0.0517578125
-      Z: 600
-    }
-    Rotation {
-      Yaw: -90
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2673253281147054074
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 897429753597555270
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 6208423028130539581
-  Name: "Fantasy Castle Bannister 01 - Post"
-  Transform {
-    Location {
-      X: 6720.98926
-      Y: -0.05078125
-    }
-    Rotation {
-      Yaw: -90
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2673253281147054074
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 897429753597555270
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 9558766925067564070
-  Name: "Fantasy Castle Bannister 01 - Post"
-  Transform {
-    Location {
-      X: 7120.98926
-      Y: -0.0517578125
-    }
-    Rotation {
-      Yaw: -90
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2673253281147054074
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 897429753597555270
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 1746981447579479496
-  Name: "Fantasy Castle Bannister 01 - Spiral"
-  Transform {
-    Location {
-      X: 7520.97949
-      Y: -0.0532226563
-      Z: 400
-    }
-    Rotation {
-      Yaw: 89.9999542
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2673253281147054074
+  ParentId: 11368275917209628895
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Shared_Detail1:id"
+      Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 4206564792734001850
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:id"
-      AssetReference {
-        Id: 4682812250030819082
+        Id: 9140898131561986618
       }
     }
   }
@@ -1173,7 +436,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 6651434759116104397
+      Id: 2896983807196519544
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1187,113 +450,27 @@ Objects {
   }
 }
 Objects {
-  Id: 7475527635581489625
-  Name: "Fantasy Castle Bannister 01 - Spiral"
+  Id: 12416038757931948217
+  Name: "Arch"
   Transform {
     Location {
-      X: 7520.97949
-      Y: -0.0532226563
-      Z: 100
+      X: 5118.02295
+      Y: -4499.19531
     }
     Rotation {
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 11.2000017
+      Y: 11.2000017
+      Z: 1.99999988
     }
   }
-  ParentId: 2673253281147054074
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6651434759116104397
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 435993417315011509
-  Name: "Fantasy Castle Stairs Spiral Wall 01 - Small"
-  Transform {
-    Location {
-      X: 7520.97949
-      Y: -0.0532226563
-    }
-    Rotation {
-      Yaw: 89.9999542
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2673253281147054074
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8386322457426737957
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 5710556673943371173
-  Name: "Fantasy Castle Stairs Spiral 03 - Large 3m"
-  Transform {
-    Location {
-      X: 7520.97949
-      Y: -0.0532226563
-      Z: 300
-    }
-    Rotation {
-      Yaw: 89.9999542
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2673253281147054074
+  ParentId: 11368275917209628895
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Shared_Detail1:id"
+      Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 4206564792734001850
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:id"
-      AssetReference {
-        Id: 4682812250030819082
+        Id: 9140898131561986618
       }
     }
   }
@@ -1305,7 +482,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 15122124826381828578
+      Id: 2896983807196519544
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1319,15 +496,16 @@ Objects {
   }
 }
 Objects {
-  Id: 9789839540831737313
-  Name: "Fantasy Castle Stairs Spiral Wall 01 - Large"
+  Id: 2533558674058928128
+  Name: "Tree Oak 01"
   Transform {
     Location {
-      X: 7520.97949
-      Y: -0.0532226563
+      X: 1975.53516
+      Y: 1379.14465
+      Z: 372.254639
     }
     Rotation {
-      Yaw: 89.9999542
+      Yaw: -35.5126343
     }
     Scale {
       X: 1
@@ -1335,7 +513,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2673253281147054074
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1344,7 +522,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 1707671254600652175
+      Id: 2568066515504578101
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1358,16 +536,15 @@ Objects {
   }
 }
 Objects {
-  Id: 7237004132432151315
-  Name: "Fantasy Castle Stairs Spiral 03 - Large 3m"
+  Id: 5987064875715919396
+  Name: "Bush 02"
   Transform {
     Location {
-      X: 7520.97949
-      Y: -0.0532226563
-      Z: 300
+      X: 2317.00684
+      Y: 1437.00891
+      Z: 670.24646
     }
     Rotation {
-      Yaw: 89.9999542
     }
     Scale {
       X: 1
@@ -1375,12 +552,247 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2673253281147054074
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10581530043728818282
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14187517241667761443
+  Name: "Bush 01"
+  Transform {
+    Location {
+      X: 2344.86426
+      Y: 776.751831
+      Z: 318.276
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16749233874952167397
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8786490906950102997
+  Name: "Bush 02"
+  Transform {
+    Location {
+      X: 2426.31055
+      Y: 457.977173
+      Z: 610.995361
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10581530043728818282
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 16923192515822029998
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: 2359.50977
+      Y: 1040.22546
+      Z: 438.606567
+    }
+    Rotation {
+      Yaw: -12.2886248
+    }
+    Scale {
+      X: 0.663176298
+      Y: 0.663176298
+      Z: 0.663176298
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3014338471134798259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 2440369281473360276
+  Name: "Bush 02"
+  Transform {
+    Location {
+      X: 1674.30469
+      Y: 1342.93616
+      Z: 670.24646
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10581530043728818282
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4043926635485413020
+  Name: "Bush 01"
+  Transform {
+    Location {
+      X: 1781.08008
+      Y: 934.43811
+      Z: 146.189575
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16749233874952167397
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14952347602389467440
+  Name: "Rock Pile 002"
+  Transform {
+    Location {
+      X: 2181.83496
+      Y: 656.057251
+      Z: 138.776978
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Shared_Detail3:id"
+      Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 8707990805172098201
+        Id: 15098773902469598179
       }
     }
   }
@@ -1392,7 +804,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 15122124826381828578
+      Id: 15288970234502648924
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1406,12 +818,13 @@ Objects {
   }
 }
 Objects {
-  Id: 9125555962591489909
-  Name: "Fantasy Castle Stairs Spiral 03 - Large 3m"
+  Id: 3339576428209123578
+  Name: "Rock 03"
   Transform {
     Location {
-      X: 7520.97949
-      Y: -0.0532226563
+      X: 1530.62549
+      Y: 752.064331
+      Z: 196.758911
     }
     Rotation {
     }
@@ -1421,7 +834,15 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2673253281147054074
+  ParentId: 11368275917209628895
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 15098773902469598179
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1430,7 +851,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 15122124826381828578
+      Id: 18244274405329183209
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1444,13 +865,13 @@ Objects {
   }
 }
 Objects {
-  Id: 7387499546557967402
-  Name: "Fantasy Castle Bannister 01 - Post"
+  Id: 15227060937779434381
+  Name: "Branches Cluster Big"
   Transform {
     Location {
-      X: 7520.98096
-      Y: -800.049316
-      Z: 300
+      X: 2038.76855
+      Y: 717.452759
+      Z: 85.5424805
     }
     Rotation {
     }
@@ -1460,7 +881,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2673253281147054074
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1469,7 +890,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 897429753597555270
+      Id: 7866248689353273876
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1483,43 +904,13 @@ Objects {
   }
 }
 Objects {
-  Id: 11999566622471115086
-  Name: "Fantasy Castle Stairs - 300cm Template"
+  Id: 2630609070832864594
+  Name: "Tree Oak Stump 01"
   Transform {
     Location {
-      X: -5150
-      Y: -3000
-    }
-    Rotation {
-      Yaw: 8.53773713e-07
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9396540053449293919
-  ChildIds: 15985814081153069874
-  ChildIds: 14499041879999949384
-  ChildIds: 3526314700613945287
-  ChildIds: 16164328212044245257
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 16164328212044245257
-  Name: "Fantasy Castle Stair Bannister - 300cm"
-  Transform {
-    Location {
-      X: 400
+      X: 14.5175781
+      Y: -395.990967
+      Z: 570.176636
     }
     Rotation {
     }
@@ -1529,37 +920,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11999566622471115086
-  ChildIds: 16078967585711647918
-  ChildIds: 15721431644656531905
-  ChildIds: 9693566048652659702
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 9693566048652659702
-  Name: "Stair Bannister - Top"
-  Transform {
-    Location {
-      Y: -7921
-      Z: 300
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 16164328212044245257
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1568,7 +929,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5690610490455183775
+      Id: 11716761322277259767
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1582,12 +943,13 @@ Objects {
   }
 }
 Objects {
-  Id: 15721431644656531905
-  Name: "Stair Bannister - Mid"
+  Id: 10015484131651192040
+  Name: "Tree Oak Stump 01"
   Transform {
     Location {
-      Y: -7621
-      Z: 150
+      X: -1515.91833
+      Y: -1030.43176
+      Z: 583.260376
     }
     Rotation {
     }
@@ -1597,7 +959,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16164328212044245257
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1606,7 +968,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16626931919023374994
+      Id: 11716761322277259767
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1620,11 +982,13 @@ Objects {
   }
 }
 Objects {
-  Id: 16078967585711647918
-  Name: "Stair Bannister - Bottom"
+  Id: 4001253145770782164
+  Name: "Tree Oak Stump 01"
   Transform {
     Location {
-      Y: -7520.99805
+      X: -2458.13306
+      Y: -118.017265
+      Z: 468.462158
     }
     Rotation {
     }
@@ -1634,7 +998,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16164328212044245257
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1643,7 +1007,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 13895290989889815401
+      Id: 11716761322277259767
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1657,10 +1021,13 @@ Objects {
   }
 }
 Objects {
-  Id: 3526314700613945287
-  Name: "Fantasy Castle Stair Bannister - 300cm"
+  Id: 7048445532033661543
+  Name: "Tree Oak Bare 01"
   Transform {
     Location {
+      X: -2240.79688
+      Y: -1772.40051
+      Z: 131.730591
     }
     Rotation {
     }
@@ -1670,37 +1037,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11999566622471115086
-  ChildIds: 13530437795610372543
-  ChildIds: 1795667949324797252
-  ChildIds: 6126015853767339113
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 6126015853767339113
-  Name: "Stair Bannister - Top"
-  Transform {
-    Location {
-      Y: -7921
-      Z: 300
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3526314700613945287
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1709,7 +1046,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5690610490455183775
+      Id: 3014338471134798259
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1723,14 +1060,16 @@ Objects {
   }
 }
 Objects {
-  Id: 1795667949324797252
-  Name: "Stair Bannister - Mid"
+  Id: 1891219107000596083
+  Name: "Tree Oak 01"
   Transform {
     Location {
-      Y: -7621
-      Z: 150
+      X: -1579.6875
+      Y: 1297.84265
+      Z: 115.186401
     }
     Rotation {
+      Yaw: -76.1483612
     }
     Scale {
       X: 1
@@ -1738,7 +1077,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3526314700613945287
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1747,7 +1086,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16626931919023374994
+      Id: 2568066515504578101
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1761,13 +1100,16 @@ Objects {
   }
 }
 Objects {
-  Id: 13530437795610372543
-  Name: "Stair Bannister - Bottom"
+  Id: 9891711053467574057
+  Name: "Tree Oak 01"
   Transform {
     Location {
-      Y: -7520.99805
+      X: -7087.12305
+      Y: 1257.17896
+      Z: 115.186279
     }
     Rotation {
+      Yaw: -76.1483765
     }
     Scale {
       X: 1
@@ -1775,7 +1117,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3526314700613945287
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1784,7 +1126,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 13895290989889815401
+      Id: 2568066515504578101
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1798,14 +1140,16 @@ Objects {
   }
 }
 Objects {
-  Id: 14499041879999949384
-  Name: "Fantasy Castle Stairs 01 - 150cm"
+  Id: 16183211313286606887
+  Name: "Tree Oak 01"
   Transform {
     Location {
-      Y: -7720.99805
-      Z: 150
+      X: -6147.76611
+      Y: -647.622131
+      Z: 115.186401
     }
     Rotation {
+      Yaw: -76.1483765
     }
     Scale {
       X: 1
@@ -1813,7 +1157,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11999566622471115086
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1822,7 +1166,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9842143421296066252
+      Id: 2568066515504578101
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1836,13 +1180,16 @@ Objects {
   }
 }
 Objects {
-  Id: 15985814081153069874
-  Name: "Fantasy Castle Stairs 01 - 150cm"
+  Id: 1493756366648828117
+  Name: "Tree Oak 01"
   Transform {
     Location {
-      Y: -7520.99805
+      X: -3670.52954
+      Y: -271.750488
+      Z: 179.777954
     }
     Rotation {
+      Yaw: -76.1483765
     }
     Scale {
       X: 1
@@ -1850,7 +1197,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11999566622471115086
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1859,7 +1206,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9842143421296066252
+      Id: 2568066515504578101
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1873,14 +1220,16 @@ Objects {
   }
 }
 Objects {
-  Id: 16872627647198640957
-  Name: "Fantasy Castle Stairs Spiral Wall 01 - Small Template"
+  Id: 6316218613807748154
+  Name: "Tree Oak 01"
   Transform {
     Location {
-      X: -3800
-      Y: -3050
+      X: -434.15918
+      Y: -472.30957
+      Z: 115.186646
     }
     Rotation {
+      Yaw: -76.1483612
     }
     Scale {
       X: 1
@@ -1888,37 +1237,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9396540053449293919
-  ChildIds: 16353886296703428833
-  ChildIds: 14631663111257516047
-  ChildIds: 16938585709997246105
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 16938585709997246105
-  Name: "Fantasy Castle Bannister 01 - Curve Small"
-  Transform {
-    Location {
-      Y: -7521
-      Z: 400
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 16872627647198640957
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1927,7 +1246,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 17706334203701286670
+      Id: 2568066515504578101
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1941,13 +1260,16 @@ Objects {
   }
 }
 Objects {
-  Id: 14631663111257516047
-  Name: "Fantasy Castle Stairs Spiral Wall 01 - Small"
+  Id: 11317594366688421100
+  Name: "Tree Oak 01"
   Transform {
     Location {
-      Y: -7521
+      X: 1520.18359
+      Y: -1808.37231
+      Z: 115.186646
     }
     Rotation {
+      Yaw: -76.1483612
     }
     Scale {
       X: 1
@@ -1955,7 +1277,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16872627647198640957
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1964,7 +1286,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 8386322457426737957
+      Id: 2568066515504578101
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1978,12 +1300,133 @@ Objects {
   }
 }
 Objects {
-  Id: 16353886296703428833
-  Name: "Fantasy Castle Stairs Spiral Trim 01 - Small"
+  Id: 9007229209512337057
+  Name: "Tree Oak 01"
   Transform {
     Location {
-      Y: -7521
-      Z: 300
+      X: 3087.82617
+      Y: -1113.10474
+      Z: 115.186646
+    }
+    Rotation {
+      Yaw: -76.1483612
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2568066515504578101
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 11311681606283812947
+  Name: "Tree Oak 01"
+  Transform {
+    Location {
+      X: 3412.49414
+      Y: 1082.59363
+      Z: 115.186646
+    }
+    Rotation {
+      Yaw: -76.148407
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2568066515504578101
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14039672678018189240
+  Name: "Tree Oak 01"
+  Transform {
+    Location {
+      X: 1431.77832
+      Y: 1028.7782
+      Z: 115.186646
+    }
+    Rotation {
+      Yaw: -76.1485138
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2568066515504578101
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1498044302973629218
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: 4106.0957
+      Y: 1291.83142
+      Z: 123.111938
     }
     Rotation {
     }
@@ -1993,7 +1436,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16872627647198640957
+  ParentId: 11368275917209628895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2002,7 +1445,514 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 15240646233324917545
+      Id: 3014338471134798259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13475475849036864159
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: 2402.79102
+      Y: 53.657711
+      Z: 123.111816
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3014338471134798259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 18196370330577324708
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: 2216.60938
+      Y: -1215.24805
+      Z: 123.111694
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3014338471134798259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7822228206857600444
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: 630.487549
+      Y: -1135.05591
+      Z: 123.111816
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3014338471134798259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3358240875005970649
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: 512.414917
+      Y: 131.855042
+      Z: 123.111816
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3014338471134798259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 12138831347946937689
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: -446.186249
+      Y: 1110.12549
+      Z: 201.391479
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3014338471134798259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 12265035209880234288
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: -1681.0835
+      Y: -682.826355
+      Z: 177.375244
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3014338471134798259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 15615489393745512259
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: -3176.84937
+      Y: 1249.81824
+      Z: 110.727417
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3014338471134798259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 12096359780286751341
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: -4250.70605
+      Y: -1066.34863
+      Z: 151.061523
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3014338471134798259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 15630907102061130724
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: -5438.55078
+      Y: -350.613464
+      Z: 81.5946045
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3014338471134798259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13761915327148694125
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: -5420.77344
+      Y: 1250.81897
+      Z: 155.973022
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3014338471134798259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14012654551587878154
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: -7685.34326
+      Y: 466.310547
+      Z: 155.972778
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3014338471134798259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 2654556433930066670
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: -7709.58203
+      Y: -1156.59338
+      Z: 95.9433594
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3014338471134798259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4654930498658286826
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: -8482.73242
+      Y: 1027.2229
+      Z: 156.000122
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3014338471134798259
     }
     Teams {
       IsTeamCollisionEnabled: true

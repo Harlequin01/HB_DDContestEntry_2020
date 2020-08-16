@@ -6,7 +6,7 @@ Objects {
   Transform {
     Location {
       X: -4050
-      Y: 3500
+      Y: 11031.8135
     }
     Rotation {
       Yaw: -134.999863
@@ -45,7 +45,7 @@ Objects {
   Transform {
     Location {
       X: -6150
-      Y: 3750
+      Y: 11281.8135
     }
     Rotation {
       Yaw: -89.9998169
@@ -84,7 +84,7 @@ Objects {
   Transform {
     Location {
       X: -7750
-      Y: 2800
+      Y: 10331.8135
     }
     Rotation {
       Yaw: -49.999939
@@ -123,7 +123,7 @@ Objects {
   Transform {
     Location {
       X: -5650
-      Y: 3900
+      Y: 11431.8135
     }
     Rotation {
     }
@@ -161,7 +161,7 @@ Objects {
   Transform {
     Location {
       X: -3800
-      Y: 3950
+      Y: 11481.8135
     }
     Rotation {
     }
@@ -199,7 +199,7 @@ Objects {
   Transform {
     Location {
       X: -7125.27197
-      Y: 1715
+      Y: 9246.8125
       Z: 225.539093
     }
     Rotation {
@@ -238,7 +238,7 @@ Objects {
   Transform {
     Location {
       X: -3950
-      Y: -4100
+      Y: -11620.998
     }
     Rotation {
       Yaw: -179.999756
@@ -277,7 +277,7 @@ Objects {
   Transform {
     Location {
       X: -3950
-      Y: -4100
+      Y: -11620.998
     }
     Rotation {
     }
@@ -315,7 +315,7 @@ Objects {
   Transform {
     Location {
       X: -7240
-      Y: 2725
+      Y: 10256.8135
     }
     Rotation {
       Yaw: -89.999939
@@ -354,7 +354,7 @@ Objects {
   Transform {
     Location {
       X: -7700
-      Y: 2000
+      Y: 9531.8125
     }
     Rotation {
       Yaw: -89.999939
@@ -422,6 +422,7 @@ Objects {
   Name: "Fantasy Castle Trim - Parapet 01"
   Transform {
     Location {
+      Y: 7531.8125
       Z: 600
     }
     Rotation {
@@ -459,6 +460,7 @@ Objects {
   Name: "Fantasy Castle Trim - Battlement 01"
   Transform {
     Location {
+      Y: 7531.8125
       Z: 600
     }
     Rotation {
@@ -496,6 +498,7 @@ Objects {
   Name: "Fantasy Castle Wall 02"
   Transform {
     Location {
+      Y: 7531.8125
     }
     Rotation {
     }
@@ -673,7 +676,8 @@ Objects {
   Name: "RotatingTrigger"
   Transform {
     Location {
-      Y: 90
+      X: 7531.87646
+      Y: 89.9751
       Z: 150
     }
     Rotation {
@@ -738,9 +742,11 @@ Objects {
   Name: "Fantasy Castle Door 01"
   Transform {
     Location {
+      X: 7531.85498
+      Y: -0.0346679688
     }
     Rotation {
-      Yaw: 89.9999924
+      Yaw: 89.9999771
     }
     Scale {
       X: 1
@@ -805,6 +811,8 @@ Objects {
   Name: "Helper_DoorCloseSound"
   Transform {
     Location {
+      X: 7531.85498
+      Y: -0.0346679688
     }
     Rotation {
     }
@@ -852,6 +860,8 @@ Objects {
   Name: "Helper_DoorOpenSound"
   Transform {
     Location {
+      X: 7531.85498
+      Y: -0.0346679688
     }
     Rotation {
     }
@@ -977,7 +987,8 @@ Objects {
   Name: "StaticTrigger"
   Transform {
     Location {
-      Y: 90
+      X: 7531.87646
+      Y: 89.9751
       Z: 150
     }
     Rotation {
@@ -1065,6 +1076,8 @@ Objects {
   Name: "Fantasy Castle Wall 01 - Doorway 01 Half"
   Transform {
     Location {
+      X: -0.0260402095
+      Y: -7532.45508
     }
     Rotation {
     }
@@ -1242,7 +1255,8 @@ Objects {
   Name: "RotatingTrigger"
   Transform {
     Location {
-      Y: 90
+      X: 7531.62695
+      Y: 89.9946289
       Z: 150
     }
     Rotation {
@@ -1307,9 +1321,11 @@ Objects {
   Name: "Fantasy Castle Door 01"
   Transform {
     Location {
+      X: 7531.62695
+      Y: -0.00927734375
     }
     Rotation {
-      Yaw: 89.9999924
+      Yaw: 89.9999771
     }
     Scale {
       X: 1
@@ -1374,6 +1390,8 @@ Objects {
   Name: "Helper_DoorCloseSound"
   Transform {
     Location {
+      X: 7531.62695
+      Y: -0.00537109375
     }
     Rotation {
     }
@@ -1421,6 +1439,8 @@ Objects {
   Name: "Helper_DoorOpenSound"
   Transform {
     Location {
+      X: 7531.62695
+      Y: -0.00537109375
     }
     Rotation {
     }
@@ -1546,7 +1566,8 @@ Objects {
   Name: "StaticTrigger"
   Transform {
     Location {
-      Y: 90
+      X: 7531.62695
+      Y: 89.9946289
       Z: 150
     }
     Rotation {
@@ -1634,6 +1655,8 @@ Objects {
   Name: "Fantasy Castle Wall 01 - Doorway 01"
   Transform {
     Location {
+      X: -0.013467934
+      Y: -7531.81445
     }
     Rotation {
     }
@@ -1814,7 +1837,8 @@ Objects {
   Name: "RotatingTrigger2"
   Transform {
     Location {
-      Y: -90
+      X: 7531.89404
+      Y: -90.0136719
       Z: 150
     }
     Rotation {
@@ -1881,8 +1905,8 @@ Objects {
   Name: "Fantasy Castle Door 02"
   Transform {
     Location {
-      X: 5.45696821e-12
-      Y: -3.0517569e-05
+      X: -7531.62842
+      Y: 0.0302734375
     }
     Rotation {
       Yaw: 89.9999466
@@ -1950,7 +1974,8 @@ Objects {
   Name: "RotatingTrigger1"
   Transform {
     Location {
-      Y: 90
+      X: 7531.8667
+      Y: 89.9765625
       Z: 150
     }
     Rotation {
@@ -2015,9 +2040,11 @@ Objects {
   Name: "Fantasy Castle Door 02"
   Transform {
     Location {
+      X: 7531.84912
+      Y: -0.03125
     }
     Rotation {
-      Yaw: 89.9999924
+      Yaw: 89.9999771
     }
     Scale {
       X: 1
@@ -2084,11 +2111,11 @@ Objects {
   Name: "Helper_DoorCloseSound"
   Transform {
     Location {
-      Y: 360
+      X: 7531.86768
+      Y: 359.974609
       Z: -25
     }
     Rotation {
-      Yaw: -6.83018516e-06
     }
     Scale {
       X: 1
@@ -2134,11 +2161,11 @@ Objects {
   Name: "Helper_DoorOpenSound"
   Transform {
     Location {
-      Y: 360
+      X: 7531.86768
+      Y: 359.974609
       Z: -25
     }
     Rotation {
-      Yaw: -6.83018516e-06
     }
     Scale {
       X: 1
@@ -2186,6 +2213,8 @@ Objects {
   Name: "Helper_DoorCloseSound"
   Transform {
     Location {
+      X: 7531.84912
+      Y: -0.03125
       Z: -25
     }
     Rotation {
@@ -2234,6 +2263,8 @@ Objects {
   Name: "Helper_DoorOpenSound"
   Transform {
     Location {
+      X: 7531.84912
+      Y: -0.03125
       Z: -25
     }
     Rotation {
@@ -2373,11 +2404,12 @@ Objects {
   Name: "StaticTrigger2"
   Transform {
     Location {
-      Y: 270
+      X: 7531.86914
+      Y: 269.980957
       Z: 150
     }
     Rotation {
-      Yaw: 6.8301797e-06
+      Yaw: 6.83017879e-06
     }
     Scale {
       X: 1.5
@@ -2409,7 +2441,8 @@ Objects {
   Name: "StaticTrigger1"
   Transform {
     Location {
-      Y: 90
+      X: 7531.8667
+      Y: 89.9765625
       Z: 150
     }
     Rotation {
@@ -2515,6 +2548,8 @@ Objects {
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
+      X: -0.0260402039
+      Y: -7532.45313
     }
     Rotation {
     }
@@ -2581,6 +2616,7 @@ Objects {
   Name: "Fantasy Castle Trim - Parapet 01 4m"
   Transform {
     Location {
+      Y: 7531.81445
       Z: 600
     }
     Rotation {
@@ -2618,6 +2654,7 @@ Objects {
   Name: "Fantasy Castle Trim - Battlement 01 4m"
   Transform {
     Location {
+      Y: 7531.81445
       Z: 600
     }
     Rotation {
@@ -2655,6 +2692,7 @@ Objects {
   Name: "Fantasy Castle Wall 02 Half"
   Transform {
     Location {
+      Y: 7531.81445
     }
     Rotation {
     }
@@ -2721,6 +2759,7 @@ Objects {
   Transform {
     Location {
       X: 200
+      Y: 7531.81445
     }
     Rotation {
     }
@@ -2757,6 +2796,7 @@ Objects {
   Name: "Fantasy Castle Wall 01 Half - Window 01"
   Transform {
     Location {
+      Y: 7531.81445
     }
     Rotation {
     }
@@ -2794,7 +2834,7 @@ Objects {
   Transform {
     Location {
       X: -3800
-      Y: 4800
+      Y: 12331.8125
     }
     Rotation {
     }
@@ -2861,6 +2901,7 @@ Objects {
   Transform {
     Location {
       X: 400
+      Y: 7531.8125
     }
     Rotation {
     }
@@ -2897,6 +2938,7 @@ Objects {
   Name: "Fantasy Castle Wall 01 - Window 02"
   Transform {
     Location {
+      Y: 7531.8125
     }
     Rotation {
     }
@@ -2963,6 +3005,7 @@ Objects {
   Transform {
     Location {
       X: 400
+      Y: 7531.81445
     }
     Rotation {
     }
@@ -2999,6 +3042,7 @@ Objects {
   Name: "Fantasy Castle Wall 01 - Window 01"
   Transform {
     Location {
+      Y: 7531.81445
     }
     Rotation {
     }
@@ -3066,6 +3110,7 @@ Objects {
   Transform {
     Location {
       X: 400
+      Y: 7531.81445
       Z: 500
     }
     Rotation {
@@ -3111,6 +3156,7 @@ Objects {
   Name: "Fantasy Castle Wall 04 - Window 01 Top"
   Transform {
     Location {
+      Y: 7531.81445
       Z: 600
     }
     Rotation {
@@ -3148,6 +3194,7 @@ Objects {
   Name: "Fantasy Castle Wall 04 - Window 01 Base"
   Transform {
     Location {
+      Y: 7531.81445
     }
     Rotation {
     }
@@ -3215,6 +3262,7 @@ Objects {
   Name: "Fantasy Castle Wall 04 - Window 01 Top"
   Transform {
     Location {
+      Y: 7531.8125
       Z: 1200
     }
     Rotation {
@@ -3252,6 +3300,7 @@ Objects {
   Name: "Fantasy Castle Wall 04 - Window 01 Mid"
   Transform {
     Location {
+      Y: 7531.8125
       Z: 600
     }
     Rotation {
@@ -3290,6 +3339,7 @@ Objects {
   Transform {
     Location {
       X: 400
+      Y: 7531.8125
       Z: 800
     }
     Rotation {
@@ -3335,6 +3385,7 @@ Objects {
   Name: "Fantasy Castle Wall 04 - Window 01 Base"
   Transform {
     Location {
+      Y: 7531.8125
     }
     Rotation {
     }
@@ -3402,6 +3453,8 @@ Objects {
   Name: "Fantasy Castle Pillar 02 - Top"
   Transform {
     Location {
+      X: -7531.78906
+      Y: 0.0200195313
       Z: 600
     }
     Rotation {
@@ -3439,6 +3492,8 @@ Objects {
   Name: "Fantasy Castle Pillar 02 - Mid"
   Transform {
     Location {
+      X: -7531.78906
+      Y: 0.0200195313
       Z: 350
     }
     Rotation {
@@ -3476,6 +3531,8 @@ Objects {
   Name: "Fantasy Castle Pillar 02 - Base"
   Transform {
     Location {
+      X: -7531.78906
+      Y: 0.0200195313
     }
     Rotation {
     }
@@ -3544,6 +3601,8 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Cap"
   Transform {
     Location {
+      X: -7531.78955
+      Y: 0.015625
       Z: 1200
     }
     Rotation {
@@ -3581,6 +3640,8 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Top"
   Transform {
     Location {
+      X: -7531.78955
+      Y: 0.015625
       Z: 1200
     }
     Rotation {
@@ -3618,6 +3679,8 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
+      X: -7531.78955
+      Y: 0.015625
       Z: 600
     }
     Rotation {
@@ -3655,6 +3718,8 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Base"
   Transform {
     Location {
+      X: -7531.78955
+      Y: 0.015625
     }
     Rotation {
     }
@@ -3722,6 +3787,8 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Cap"
   Transform {
     Location {
+      X: -7531.78955
+      Y: 0.0151367188
       Z: 1200
     }
     Rotation {
@@ -3759,6 +3826,8 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
+      X: -7531.78955
+      Y: 0.0151367188
       Z: 600
     }
     Rotation {
@@ -3796,6 +3865,8 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Base"
   Transform {
     Location {
+      X: -7531.78955
+      Y: 0.0151367188
     }
     Rotation {
     }
@@ -3862,6 +3933,8 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Cap"
   Transform {
     Location {
+      X: -7531.78906
+      Y: 0.01953125
       Z: 600
     }
     Rotation {
@@ -3899,6 +3972,8 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Base"
   Transform {
     Location {
+      X: -7531.78906
+      Y: 0.01953125
     }
     Rotation {
     }

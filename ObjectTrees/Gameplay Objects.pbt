@@ -1,46 +1,6 @@
 Name: "Gameplay Objects"
 RootId: 7784830314711773274
 Objects {
-  Id: 16698363345259093587
-  Name: "Corehaven Portal"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7784830314711773274
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 10640677359795072561
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Corehaven Portal"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -8060
-            Y: 50
-            Z: -220
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 89.9999084
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 490727558529428505
-    }
-  }
-}
-Objects {
   Id: 14330160703935451757
   Name: "Basic Door"
   Transform {
@@ -69,7 +29,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -5400
-            Y: 1345
+            Y: 8876.8125
             Z: 30
           }
         }
@@ -123,7 +83,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -5400
-            Y: 740
+            Y: 8271.81348
             Z: 30
           }
         }
@@ -171,7 +131,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -5410
-            Y: 1480
+            Y: 9011.8125
             Z: 20
           }
         }
@@ -222,7 +182,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -5445
-            Y: 2050
+            Y: 9581.8125
             Z: 25.0000305
           }
         }
@@ -276,7 +236,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -5445
-            Y: 1770
+            Y: 9301.8125
             Z: 25.0000305
           }
         }

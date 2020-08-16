@@ -37,7 +37,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -550
-            Y: -700
+            Y: -8221
           }
         }
         Overrides {
@@ -120,7 +120,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -550
-            Y: -400
+            Y: -7921
           }
         }
         Overrides {
@@ -203,7 +203,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -550
-            Y: -100
+            Y: -7621
           }
         }
         Overrides {
@@ -286,7 +286,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -550
-            Y: 200
+            Y: -7321
           }
         }
         Overrides {
@@ -369,7 +369,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -550
-            Y: 500
+            Y: -7021
           }
         }
         Overrides {
