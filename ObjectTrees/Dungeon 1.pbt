@@ -20,7 +20,6 @@ Objects {
   ParentId: 14151905075396227886
   ChildIds: 8178016214042736647
   ChildIds: 185319592799010825
-  ChildIds: 18253259913445446687
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -36,193 +35,6 @@ Objects {
     InstanceId: 6922697643248069676
     TemplateId: 17510640320964350980
     WasRoot: true
-  }
-}
-Objects {
-  Id: 18253259913445446687
-  Name: "SpawnPoints"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13644944906239954175
-  ChildIds: 16351054491222061803
-  ChildIds: 15608538004887738650
-  ChildIds: 10161444732263203421
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-  InstanceHistory {
-    SelfId: 9085467631056938089
-    SubobjectId: 7433820655640328381
-    InstanceId: 6922697643248069676
-    TemplateId: 17510640320964350980
-  }
-}
-Objects {
-  Id: 10161444732263203421
-  Name: "NPC Spawn Point"
-  Transform {
-    Location {
-      X: 3830
-      Y: -590
-      Z: 0.000122070313
-    }
-    Rotation {
-      Yaw: 89.9999161
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 18253259913445446687
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:NPC"
-      AssetReference {
-        Id: 18416574560789436901
-      }
-    }
-    Overrides {
-      Name: "cs:NPC2"
-      AssetReference {
-        Id: 7936693949144627473
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 13043298331982480779
-    }
-  }
-  InstanceHistory {
-    SelfId: 14226489024020690528
-    SubobjectId: 15875901479348693684
-    InstanceId: 6922697643248069676
-    TemplateId: 17510640320964350980
-  }
-}
-Objects {
-  Id: 15608538004887738650
-  Name: "NPC Spawn Point"
-  Transform {
-    Location {
-      X: 1180
-      Y: 560
-      Z: 0.000122070313
-    }
-    Rotation {
-      Yaw: -90.0000305
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 18253259913445446687
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:NPC"
-      AssetReference {
-        Id: 18416574560789436901
-      }
-    }
-    Overrides {
-      Name: "cs:NPC2"
-      AssetReference {
-        Id: 7936693949144627473
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 13043298331982480779
-    }
-  }
-  InstanceHistory {
-    SelfId: 14226489024020690528
-    SubobjectId: 15875901479348693684
-    InstanceId: 6922697643248069676
-    TemplateId: 17510640320964350980
-  }
-}
-Objects {
-  Id: 16351054491222061803
-  Name: "NPC Spawn Point"
-  Transform {
-    Location {
-      X: 330
-      Y: -90
-      Z: 0.000122070313
-    }
-    Rotation {
-      Yaw: -3.05175781e-05
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 18253259913445446687
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:NPC"
-      AssetReference {
-        Id: 18416574560789436901
-      }
-    }
-    Overrides {
-      Name: "cs:NPC2"
-      AssetReference {
-        Id: 7936693949144627473
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 13043298331982480779
-    }
-  }
-  InstanceHistory {
-    SelfId: 14226489024020690528
-    SubobjectId: 15875901479348693684
-    InstanceId: 6922697643248069676
-    TemplateId: 17510640320964350980
   }
 }
 Objects {
@@ -396,7 +208,6 @@ Objects {
     }
   }
   ParentId: 16272996561794024645
-  ChildIds: 14226489024020690528
   ChildIds: 5900497267710317994
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -425,57 +236,6 @@ Objects {
     }
     Rotation {
       Yaw: -90.000061
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9085467631056938089
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:NPC"
-      AssetReference {
-        Id: 18416574560789436901
-      }
-    }
-    Overrides {
-      Name: "cs:NPC2"
-      AssetReference {
-        Id: 7936693949144627473
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 13043298331982480779
-    }
-  }
-  InstanceHistory {
-    SelfId: 14226489024020690528
-    SubobjectId: 15875901479348693684
-    InstanceId: 6922697643248069676
-    TemplateId: 17510640320964350980
-  }
-}
-Objects {
-  Id: 14226489024020690528
-  Name: "NPC Spawn Point"
-  Transform {
-    Location {
-      X: -350
-      Y: -640
-      Z: 0.000122070313
-    }
-    Rotation {
-      Yaw: 89.9999542
     }
     Scale {
       X: 1

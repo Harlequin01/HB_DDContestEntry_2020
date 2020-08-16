@@ -93,6 +93,7 @@ Objects {
   Name: "Trigger"
   Transform {
     Location {
+      Y: 8772.66504
       Z: 75
     }
     Rotation {
@@ -170,6 +171,7 @@ Objects {
   Name: "Pipe (thin)"
   Transform {
     Location {
+      Y: 8772.66504
     }
     Rotation {
     }
@@ -229,6 +231,7 @@ Objects {
   Name: "Cylinder - Rounded Bottom-Aligned"
   Transform {
     Location {
+      Y: 8772.66504
     }
     Rotation {
     }
@@ -498,6 +501,7 @@ Objects {
   Name: "Trigger"
   Transform {
     Location {
+      Y: 8772.66699
       Z: 75
     }
     Rotation {
@@ -575,6 +579,7 @@ Objects {
   Name: "Pipe (thin)"
   Transform {
     Location {
+      Y: 8772.66699
     }
     Rotation {
     }
@@ -634,6 +639,7 @@ Objects {
   Name: "Cylinder - Rounded Bottom-Aligned"
   Transform {
     Location {
+      Y: 8772.66699
     }
     Rotation {
     }
@@ -903,6 +909,7 @@ Objects {
   Name: "Trigger"
   Transform {
     Location {
+      Y: 8772.6709
       Z: 75
     }
     Rotation {
@@ -980,6 +987,7 @@ Objects {
   Name: "Pipe (thin)"
   Transform {
     Location {
+      Y: 8772.6709
     }
     Rotation {
     }
@@ -1039,6 +1047,7 @@ Objects {
   Name: "Cylinder - Rounded Bottom-Aligned"
   Transform {
     Location {
+      Y: 8772.6709
     }
     Rotation {
     }
@@ -1251,8 +1260,8 @@ Objects {
   Name: "Portal VFX"
   Transform {
     Location {
-      X: -150
-      Y: 100
+      X: 8622.70215
+      Y: 100.00293
       Z: 225
     }
     Rotation {
@@ -1365,8 +1374,8 @@ Objects {
   Name: "Arch Fancy Peaked 6m"
   Transform {
     Location {
-      X: -150
-      Y: -140
+      X: 8622.70215
+      Y: -139.995117
     }
     Rotation {
     }
@@ -1446,8 +1455,8 @@ Objects {
   Name: "Portal VFX"
   Transform {
     Location {
-      X: -150
-      Y: 100
+      X: 8622.70703
+      Y: 100.00293
       Z: 225
     }
     Rotation {
@@ -1585,8 +1594,8 @@ Objects {
   Name: "Arch Fancy Peaked 6m"
   Transform {
     Location {
-      X: -150
-      Y: -140
+      X: 8622.70703
+      Y: -139.999023
     }
     Rotation {
     }
@@ -1666,8 +1675,8 @@ Objects {
   Name: "Portal VFX"
   Transform {
     Location {
-      X: -150
-      Y: 100
+      X: 8622.64063
+      Y: 100.006836
       Z: 225
     }
     Rotation {
@@ -1807,8 +1816,8 @@ Objects {
   Name: "Arch Fancy Peaked 6m"
   Transform {
     Location {
-      X: -150
-      Y: -140
+      X: 8622.64063
+      Y: -139.992188
     }
     Rotation {
     }

@@ -1,6 +1,408 @@
 Name: "H_ForestLevel_Objects"
 RootId: 11368275917209628895
 Objects {
+  Id: 7652940845664811374
+  Name: "Tree Oak 01"
+  Transform {
+    Location {
+      X: -7176.82031
+      Y: -1901.27283
+      Z: 115.186401
+    }
+    Rotation {
+      Yaw: -76.1483154
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2568066515504578101
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 15195806666808529650
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: -8570.0293
+      Y: -1677.02881
+      Z: 95.9432373
+    }
+    Rotation {
+      Yaw: 6.5137752e-12
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3014338471134798259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7967036373921695526
+  Name: "Tree Oak Stump 01"
+  Transform {
+    Location {
+      X: -6618.41309
+      Y: 464.666046
+      Z: 304.123657
+    }
+    Rotation {
+      Pitch: 14.154726
+      Yaw: 24.5463505
+      Roll: -5.86456299
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11716761322277259767
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4272489619612388701
+  Name: "Tree Oak 01"
+  Transform {
+    Location {
+      X: -5101.65039
+      Y: -1780.21619
+      Z: 177.609863
+    }
+    Rotation {
+      Yaw: -76.1483154
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2568066515504578101
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17673127377586088320
+  Name: "Tree Oak 01"
+  Transform {
+    Location {
+      X: -4293.34766
+      Y: 799.832092
+      Z: 179.777954
+    }
+    Rotation {
+      Yaw: -76.1483154
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2568066515504578101
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 15717681443714707531
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: 525.463562
+      Y: 1229.67859
+      Z: 201.391479
+    }
+    Rotation {
+      Yaw: 6.51377433e-12
+    }
+    Scale {
+      X: 0.820084
+      Y: 0.820084
+      Z: 0.820084
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3014338471134798259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 18150450829362454047
+  Name: "Tree Oak 01"
+  Transform {
+    Location {
+      X: 1562.21033
+      Y: -290.47
+      Z: 179.969727
+    }
+    Rotation {
+      Yaw: -76.1483765
+    }
+    Scale {
+      X: 0.817964792
+      Y: 0.817964792
+      Z: 0.817964792
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2568066515504578101
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8113059401388893039
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: 2238.28589
+      Y: -643.250122
+      Z: 139.850098
+    }
+    Rotation {
+      Yaw: 6.5137739e-12
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3014338471134798259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9507730973925660974
+  Name: "Tree Oak 01"
+  Transform {
+    Location {
+      X: -1015.89331
+      Y: -1622.74915
+      Z: 249.449097
+    }
+    Rotation {
+      Yaw: -53.5148315
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2568066515504578101
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8654680340983078095
+  Name: "Tree Oak Bare 01"
+  Transform {
+    Location {
+      X: -170.812332
+      Y: -1536.25671
+      Z: 123.111816
+    }
+    Rotation {
+      Yaw: 6.51377476e-12
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3014338471134798259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 14770015325320296652
   Name: "Arch"
   Transform {
@@ -545,9 +947,9 @@ Objects {
   Name: "Tree Oak Stump 01"
   Transform {
     Location {
-      X: -1532.17432
-      Y: -1090.21533
-      Z: 570.176636
+      X: -1515.91833
+      Y: -1030.43176
+      Z: 583.260376
     }
     Rotation {
     }
@@ -584,8 +986,8 @@ Objects {
   Name: "Tree Oak Stump 01"
   Transform {
     Location {
-      X: -2374.17432
-      Y: -69.1693115
+      X: -2458.13306
+      Y: -118.017265
       Z: 468.462158
     }
     Rotation {
@@ -702,12 +1104,12 @@ Objects {
   Name: "Tree Oak 01"
   Transform {
     Location {
-      X: -6262.25244
-      Y: 1312.74182
+      X: -7087.12305
+      Y: 1257.17896
       Z: 115.186279
     }
     Rotation {
-      Yaw: -76.1483612
+      Yaw: -76.1483765
     }
     Scale {
       X: 1
@@ -742,12 +1144,12 @@ Objects {
   Name: "Tree Oak 01"
   Transform {
     Location {
-      X: -5940.21338
-      Y: -1244.52075
+      X: -6147.76611
+      Y: -647.622131
       Z: 115.186401
     }
     Rotation {
-      Yaw: -76.1483612
+      Yaw: -76.1483765
     }
     Scale {
       X: 1
@@ -782,12 +1184,12 @@ Objects {
   Name: "Tree Oak 01"
   Transform {
     Location {
-      X: -3689.44214
-      Y: -256.553711
-      Z: 164.624634
+      X: -3670.52954
+      Y: -271.750488
+      Z: 179.777954
     }
     Rotation {
-      Yaw: -76.1483612
+      Yaw: -76.1483765
     }
     Scale {
       X: 1
@@ -1061,8 +1463,8 @@ Objects {
   Name: "Tree Oak Bare 01"
   Transform {
     Location {
-      X: 2425.76953
-      Y: 92.03125
+      X: 2402.79102
+      Y: 53.657711
       Z: 123.111816
     }
     Rotation {
@@ -1139,8 +1541,8 @@ Objects {
   Name: "Tree Oak Bare 01"
   Transform {
     Location {
-      X: 607.907227
-      Y: -1159.22168
+      X: 630.487549
+      Y: -1135.05591
       Z: 123.111816
     }
     Rotation {
@@ -1178,8 +1580,8 @@ Objects {
   Name: "Tree Oak Bare 01"
   Transform {
     Location {
-      X: 468.73291
-      Y: 108.397339
+      X: 512.414917
+      Y: 131.855042
       Z: 123.111816
     }
     Rotation {
@@ -1217,8 +1619,8 @@ Objects {
   Name: "Tree Oak Bare 01"
   Transform {
     Location {
-      X: -345.795898
-      Y: 1078.44275
+      X: -446.186249
+      Y: 1110.12549
       Z: 201.391479
     }
     Rotation {
@@ -1334,9 +1736,9 @@ Objects {
   Name: "Tree Oak Bare 01"
   Transform {
     Location {
-      X: -4287.3916
-      Y: -1346.92
-      Z: 310.975098
+      X: -4250.70605
+      Y: -1066.34863
+      Z: 151.061523
     }
     Rotation {
     }
@@ -1373,9 +1775,9 @@ Objects {
   Name: "Tree Oak Bare 01"
   Transform {
     Location {
-      X: -5513.69531
-      Y: -419.933472
-      Z: 101.419556
+      X: -5438.55078
+      Y: -350.613464
+      Z: 81.5946045
     }
     Rotation {
     }
@@ -1451,8 +1853,8 @@ Objects {
   Name: "Tree Oak Bare 01"
   Transform {
     Location {
-      X: -7297.68701
-      Y: 413.592407
+      X: -7685.34326
+      Y: 466.310547
       Z: 155.972778
     }
     Rotation {
@@ -1490,8 +1892,8 @@ Objects {
   Name: "Tree Oak Bare 01"
   Transform {
     Location {
-      X: -7168.39893
-      Y: -1008.28625
+      X: -7709.58203
+      Y: -1156.59338
       Z: 95.9433594
     }
     Rotation {
@@ -1529,8 +1931,8 @@ Objects {
   Name: "Tree Oak Bare 01"
   Transform {
     Location {
-      X: -8482.73145
-      Y: -100.804077
+      X: -8482.73242
+      Y: 1027.2229
       Z: 156.000122
     }
     Rotation {

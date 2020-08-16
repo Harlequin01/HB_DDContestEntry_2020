@@ -6,7 +6,7 @@ Objects {
   Transform {
     Location {
       X: -2850
-      Y: 3100
+      Y: 10631.8135
     }
     Rotation {
     }
@@ -44,7 +44,7 @@ Objects {
   Transform {
     Location {
       X: -2650
-      Y: -4150
+      Y: -11670.998
     }
     Rotation {
     }
@@ -82,7 +82,7 @@ Objects {
   Transform {
     Location {
       X: -3750
-      Y: -3050
+      Y: -10571
     }
     Rotation {
     }
@@ -120,7 +120,7 @@ Objects {
   Transform {
     Location {
       X: -2900
-      Y: -3200
+      Y: -10720.998
     }
     Rotation {
     }
@@ -158,7 +158,7 @@ Objects {
   Transform {
     Location {
       X: -2750
-      Y: -3250
+      Y: -10771
     }
     Rotation {
     }
@@ -196,7 +196,7 @@ Objects {
   Transform {
     Location {
       X: -6100
-      Y: -4350
+      Y: -11870.998
     }
     Rotation {
       Yaw: 90.0001831
@@ -235,7 +235,7 @@ Objects {
   Transform {
     Location {
       X: -2850
-      Y: 3650
+      Y: 11181.8135
     }
     Rotation {
     }
@@ -273,7 +273,7 @@ Objects {
   Transform {
     Location {
       X: -3000
-      Y: 3500
+      Y: 11031.8135
     }
     Rotation {
     }
@@ -311,7 +311,7 @@ Objects {
   Transform {
     Location {
       X: -3200
-      Y: 3400
+      Y: 10931.8135
     }
     Rotation {
     }
@@ -349,7 +349,7 @@ Objects {
   Transform {
     Location {
       X: -6650
-      Y: -2450
+      Y: -9971
     }
     Rotation {
     }
@@ -387,7 +387,7 @@ Objects {
   Transform {
     Location {
       X: -7150
-      Y: -1700
+      Y: -9221
     }
     Rotation {
     }
@@ -425,7 +425,7 @@ Objects {
   Transform {
     Location {
       X: -7000
-      Y: -2300
+      Y: -9821
     }
     Rotation {
       Yaw: -89.9998169
@@ -493,6 +493,7 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral Trim 01 - Large"
   Transform {
     Location {
+      Y: -7520.99805
       Z: 300
     }
     Rotation {
@@ -530,6 +531,7 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral Wall 01 - Large"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
     }
@@ -566,6 +568,7 @@ Objects {
   Name: "Fantasy Castle Bannister 01 - Curve Large"
   Transform {
     Location {
+      Y: -7520.99805
       Z: 400
     }
     Rotation {
@@ -634,6 +637,7 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
+      Y: -7520.99805
       Z: 450
     }
     Rotation {
@@ -672,6 +676,7 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
+      Y: -7520.99805
       Z: 300
     }
     Rotation {
@@ -710,6 +715,7 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
+      Y: -7520.99805
       Z: 150
     }
     Rotation {
@@ -748,9 +754,10 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
-      Yaw: 89.9999847
+      Yaw: 89.9999771
     }
     Scale {
       X: 1
@@ -815,6 +822,8 @@ Objects {
   Name: "Fantasy Castle Bannister 01 - Spiral"
   Transform {
     Location {
+      X: -0.0161383022
+      Y: -7520.99805
       Z: 100
     }
     Rotation {
@@ -852,6 +861,8 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 02 - Large 3m"
   Transform {
     Location {
+      X: -0.0161383022
+      Y: -7520.99805
     }
     Rotation {
     }
@@ -929,7 +940,8 @@ Objects {
   Name: "Fantasy Castle Bannister 01 - Post"
   Transform {
     Location {
-      Y: -400
+      X: 7520.97314
+      Y: -400.044434
       Z: 300
     }
     Rotation {
@@ -967,12 +979,12 @@ Objects {
   Name: "Fantasy Castle Bannister 01 - Post"
   Transform {
     Location {
-      X: 400
-      Y: 0.000122070313
+      X: 7920.9873
+      Y: -0.0512695313
       Z: 600
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -1007,12 +1019,12 @@ Objects {
   Name: "Fantasy Castle Bannister 01 - Post"
   Transform {
     Location {
-      X: 800
-      Y: 0.000122070313
+      X: 8320.98242
+      Y: -0.0517578125
       Z: 600
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -1047,10 +1059,11 @@ Objects {
   Name: "Fantasy Castle Bannister 01 - Post"
   Transform {
     Location {
-      X: -800
+      X: 6720.98926
+      Y: -0.05078125
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -1085,10 +1098,11 @@ Objects {
   Name: "Fantasy Castle Bannister 01 - Post"
   Transform {
     Location {
-      X: -400
+      X: 7120.98926
+      Y: -0.0517578125
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -1123,6 +1137,8 @@ Objects {
   Name: "Fantasy Castle Bannister 01 - Spiral"
   Transform {
     Location {
+      X: 7520.97949
+      Y: -0.0532226563
       Z: 400
     }
     Rotation {
@@ -1175,6 +1191,8 @@ Objects {
   Name: "Fantasy Castle Bannister 01 - Spiral"
   Transform {
     Location {
+      X: 7520.97949
+      Y: -0.0532226563
       Z: 100
     }
     Rotation {
@@ -1212,9 +1230,11 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral Wall 01 - Small"
   Transform {
     Location {
+      X: 7520.97949
+      Y: -0.0532226563
     }
     Rotation {
-      Yaw: 89.9999619
+      Yaw: 89.9999542
     }
     Scale {
       X: 1
@@ -1249,10 +1269,12 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 03 - Large 3m"
   Transform {
     Location {
+      X: 7520.97949
+      Y: -0.0532226563
       Z: 300
     }
     Rotation {
-      Yaw: 89.9999619
+      Yaw: 89.9999542
     }
     Scale {
       X: 1
@@ -1301,9 +1323,11 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral Wall 01 - Large"
   Transform {
     Location {
+      X: 7520.97949
+      Y: -0.0532226563
     }
     Rotation {
-      Yaw: 89.9999619
+      Yaw: 89.9999542
     }
     Scale {
       X: 1
@@ -1338,10 +1362,12 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 03 - Large 3m"
   Transform {
     Location {
+      X: 7520.97949
+      Y: -0.0532226563
       Z: 300
     }
     Rotation {
-      Yaw: 89.9999619
+      Yaw: 89.9999542
     }
     Scale {
       X: 1
@@ -1384,6 +1410,8 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 03 - Large 3m"
   Transform {
     Location {
+      X: 7520.97949
+      Y: -0.0532226563
     }
     Rotation {
     }
@@ -1420,7 +1448,8 @@ Objects {
   Name: "Fantasy Castle Bannister 01 - Post"
   Transform {
     Location {
-      Y: -800
+      X: 7520.98096
+      Y: -800.049316
       Z: 300
     }
     Rotation {
@@ -1519,7 +1548,7 @@ Objects {
   Name: "Stair Bannister - Top"
   Transform {
     Location {
-      Y: -400
+      Y: -7921
       Z: 300
     }
     Rotation {
@@ -1557,8 +1586,7 @@ Objects {
   Name: "Stair Bannister - Mid"
   Transform {
     Location {
-      X: -6.10351563e-05
-      Y: -100
+      Y: -7621
       Z: 150
     }
     Rotation {
@@ -1596,6 +1624,7 @@ Objects {
   Name: "Stair Bannister - Bottom"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
     }
@@ -1660,7 +1689,7 @@ Objects {
   Name: "Stair Bannister - Top"
   Transform {
     Location {
-      Y: -400
+      Y: -7921
       Z: 300
     }
     Rotation {
@@ -1698,8 +1727,7 @@ Objects {
   Name: "Stair Bannister - Mid"
   Transform {
     Location {
-      X: -6.10351563e-05
-      Y: -100
+      Y: -7621
       Z: 150
     }
     Rotation {
@@ -1737,6 +1765,7 @@ Objects {
   Name: "Stair Bannister - Bottom"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
     }
@@ -1773,7 +1802,7 @@ Objects {
   Name: "Fantasy Castle Stairs 01 - 150cm"
   Transform {
     Location {
-      Y: -200
+      Y: -7720.99805
       Z: 150
     }
     Rotation {
@@ -1811,6 +1840,7 @@ Objects {
   Name: "Fantasy Castle Stairs 01 - 150cm"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
     }
@@ -1877,6 +1907,7 @@ Objects {
   Name: "Fantasy Castle Bannister 01 - Curve Small"
   Transform {
     Location {
+      Y: -7521
       Z: 400
     }
     Rotation {
@@ -1914,6 +1945,7 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral Wall 01 - Small"
   Transform {
     Location {
+      Y: -7521
     }
     Rotation {
     }
@@ -1950,6 +1982,7 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral Trim 01 - Small"
   Transform {
     Location {
+      Y: -7521
       Z: 300
     }
     Rotation {

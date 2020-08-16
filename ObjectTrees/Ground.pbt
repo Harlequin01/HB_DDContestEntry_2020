@@ -38,6 +38,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 179.999954
@@ -95,6 +96,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 89.9999542
@@ -152,9 +154,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -209,6 +212,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
     }
@@ -298,6 +302,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 179.999954
@@ -355,6 +360,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 89.9999542
@@ -412,9 +418,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -469,6 +476,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
     }
@@ -558,6 +566,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 179.999954
@@ -615,6 +624,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 89.9999542
@@ -672,9 +682,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -729,6 +740,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
     }
@@ -818,6 +830,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 179.999954
@@ -875,6 +888,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 89.9999542
@@ -932,9 +946,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -989,6 +1004,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
     }
@@ -1078,6 +1094,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 179.999954
@@ -1135,6 +1152,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 89.9999542
@@ -1192,9 +1210,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -1249,6 +1268,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
     }
@@ -1338,6 +1358,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 179.999954
@@ -1395,6 +1416,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 89.9999542
@@ -1452,9 +1474,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -1509,6 +1532,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
     }
@@ -1598,6 +1622,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 179.999954
@@ -1655,6 +1680,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 89.9999542
@@ -1712,9 +1738,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -1769,6 +1796,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
     }
@@ -1858,6 +1886,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 179.999954
@@ -1915,6 +1944,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
       Yaw: 89.9999542
@@ -1972,9 +2002,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -2029,6 +2060,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99805
     }
     Rotation {
     }
@@ -2118,6 +2150,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7521
     }
     Rotation {
       Yaw: 179.999954
@@ -2175,6 +2208,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7521
     }
     Rotation {
       Yaw: 89.9999542
@@ -2232,9 +2266,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7521
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -2289,6 +2324,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7521
     }
     Rotation {
     }
@@ -2378,6 +2414,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7521
     }
     Rotation {
       Yaw: 179.999954
@@ -2435,6 +2472,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7521
     }
     Rotation {
       Yaw: 89.9999542
@@ -2492,9 +2530,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7521
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -2549,6 +2588,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7521
     }
     Rotation {
     }
@@ -3156,6 +3196,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81348
     }
     Rotation {
       Yaw: 179.999954
@@ -3213,6 +3254,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81348
     }
     Rotation {
       Yaw: 89.9999542
@@ -3270,9 +3312,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81348
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -3327,6 +3370,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81348
     }
     Rotation {
     }
@@ -3416,6 +3460,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81348
     }
     Rotation {
       Yaw: 179.999954
@@ -3473,6 +3518,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81348
     }
     Rotation {
       Yaw: 89.9999542
@@ -3530,9 +3576,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81348
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -3587,6 +3634,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81348
     }
     Rotation {
     }
@@ -3676,6 +3724,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81299
     }
     Rotation {
       Yaw: 179.999954
@@ -3733,6 +3782,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81299
     }
     Rotation {
       Yaw: 89.9999542
@@ -3790,9 +3840,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81299
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -3847,6 +3898,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81299
     }
     Rotation {
     }
@@ -3936,6 +3988,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81201
     }
     Rotation {
       Yaw: 179.999954
@@ -3993,6 +4046,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81201
     }
     Rotation {
       Yaw: 89.9999542
@@ -4050,9 +4104,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81201
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -4107,6 +4162,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81201
     }
     Rotation {
     }
@@ -4196,6 +4252,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81299
     }
     Rotation {
       Yaw: 179.999954
@@ -4253,6 +4310,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81299
     }
     Rotation {
       Yaw: 89.9999542
@@ -4310,9 +4368,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81299
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -4367,6 +4426,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81299
     }
     Rotation {
     }
@@ -4456,6 +4516,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81201
     }
     Rotation {
       Yaw: 179.999954
@@ -4513,6 +4574,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81201
     }
     Rotation {
       Yaw: 89.9999542
@@ -4570,9 +4632,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81201
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -4627,6 +4690,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81201
     }
     Rotation {
     }
@@ -4716,6 +4780,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.8125
     }
     Rotation {
       Yaw: 179.999954
@@ -4773,6 +4838,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.8125
     }
     Rotation {
       Yaw: 89.9999542
@@ -4830,6 +4896,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.8125
     }
     Rotation {
       Yaw: -90
@@ -4887,6 +4954,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.8125
     }
     Rotation {
     }
@@ -4976,6 +5044,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81201
     }
     Rotation {
       Yaw: 179.999954
@@ -5033,6 +5102,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81201
     }
     Rotation {
       Yaw: 89.9999542
@@ -5090,9 +5160,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81201
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -5147,6 +5218,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81201
     }
     Rotation {
     }
@@ -5236,6 +5308,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81348
     }
     Rotation {
       Yaw: 179.999954
@@ -5293,6 +5366,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81348
     }
     Rotation {
       Yaw: 89.9999542
@@ -5350,6 +5424,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81348
     }
     Rotation {
       Yaw: -90
@@ -5407,6 +5482,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81348
     }
     Rotation {
     }
@@ -5496,6 +5572,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81299
     }
     Rotation {
       Yaw: 179.999954
@@ -5553,6 +5630,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81299
     }
     Rotation {
       Yaw: 89.9999542
@@ -5610,9 +5688,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81299
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -5667,6 +5746,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81299
     }
     Rotation {
     }
@@ -5756,6 +5836,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7521.00391
     }
     Rotation {
       Yaw: 179.999954
@@ -5813,6 +5894,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7521.00391
     }
     Rotation {
       Yaw: 89.9999542
@@ -5870,9 +5952,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7521.00391
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -5927,6 +6010,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7521.00391
     }
     Rotation {
     }
@@ -6276,6 +6360,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.8125
     }
     Rotation {
       Yaw: 179.999954
@@ -6333,6 +6418,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.8125
     }
     Rotation {
       Yaw: 89.9999542
@@ -6390,9 +6476,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.8125
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -6447,6 +6534,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.8125
     }
     Rotation {
     }
@@ -6797,6 +6885,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99951
     }
     Rotation {
       Yaw: 179.999954
@@ -6854,6 +6943,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99951
     }
     Rotation {
       Yaw: 89.9999542
@@ -6911,6 +7001,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99951
     }
     Rotation {
       Yaw: -90
@@ -6968,6 +7059,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: -7520.99951
     }
     Rotation {
     }
@@ -7057,6 +7149,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81396
     }
     Rotation {
       Yaw: 179.999954
@@ -7114,6 +7207,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81396
     }
     Rotation {
       Yaw: 89.9999542
@@ -7171,6 +7265,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81396
     }
     Rotation {
       Yaw: -90
@@ -7228,6 +7323,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Y: 7531.81396
     }
     Rotation {
     }

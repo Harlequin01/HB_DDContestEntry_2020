@@ -5,11 +5,11 @@ Objects {
   Name: "Bone Human Scattered 01"
   Transform {
     Location {
-      Y: -110
+      Y: 7421.8125
       Z: -5
     }
     Rotation {
-      Yaw: -90.0000229
+      Yaw: -90.0000305
     }
     Scale {
       X: 1
@@ -45,13 +45,13 @@ Objects {
   Transform {
     Location {
       X: -180
-      Y: 20
+      Y: 7551.8125
       Z: 145
     }
     Rotation {
-      Pitch: -38.6821785
-      Yaw: 163.897598
-      Roll: -16.1021881
+      Pitch: -38.6821899
+      Yaw: 163.897568
+      Roll: -16.1021729
     }
     Scale {
       X: 1
@@ -87,7 +87,7 @@ Objects {
   Transform {
     Location {
       X: -90.7431641
-      Y: 31.9492188
+      Y: 7563.76172
       Z: 150
     }
     Rotation {
@@ -127,7 +127,7 @@ Objects {
   Transform {
     Location {
       X: 93.1611328
-      Y: 32.4001465
+      Y: 7564.21289
       Z: 131.422363
     }
     Rotation {
@@ -167,11 +167,11 @@ Objects {
   Transform {
     Location {
       X: 10
-      Y: 27.8415527
+      Y: 7559.6543
       Z: 131.422363
     }
     Rotation {
-      Yaw: -90.0000229
+      Yaw: -90.0000305
     }
     Scale {
       X: 1
@@ -207,7 +207,7 @@ Objects {
   Transform {
     Location {
       X: 145
-      Y: 24.9997559
+      Y: 7556.8125
       Z: 131.422363
     }
     Rotation {

@@ -65,8 +65,9 @@ Objects {
   Name: "Point Light"
   Transform {
     Location {
-      X: 0.234558105
-      Z: 7.21635056
+      X: -7531.55273
+      Y: 0.005859375
+      Z: 7.21635437
     }
     Rotation {
     }
@@ -115,7 +116,8 @@ Objects {
   Name: "Candle Flame VFX"
   Transform {
     Location {
-      X: -0.234558105
+      X: -7532.02686
+      Y: 0.0102539063
     }
     Rotation {
     }
@@ -152,6 +154,8 @@ Objects {
   Name: "Candle Holder 02"
   Transform {
     Location {
+      X: -7531.77344
+      Y: 0.0078125
     }
     Rotation {
     }
@@ -247,8 +251,9 @@ Objects {
   Name: "Point Light"
   Transform {
     Location {
-      X: 0.234558105
-      Z: 7.21635056
+      X: -7531.53
+      Y: 0.0068359375
+      Z: 7.21635437
     }
     Rotation {
     }
@@ -297,7 +302,8 @@ Objects {
   Name: "Candle Flame VFX"
   Transform {
     Location {
-      X: -0.234558105
+      X: -7532.00684
+      Y: 0.00830078125
     }
     Rotation {
     }
@@ -334,6 +340,8 @@ Objects {
   Name: "Candle Holder 01"
   Transform {
     Location {
+      X: -7531.77344
+      Y: 0.0078125
     }
     Rotation {
     }
@@ -432,12 +440,12 @@ Objects {
   Name: "Candle Flame VFX"
   Transform {
     Location {
-      X: 0.0121917725
-      Y: 0.973602295
-      Z: 20.2613373
+      X: -7531.77344
+      Y: 0.98046875
+      Z: 20.2613525
     }
     Rotation {
-      Yaw: -73.0362244
+      Yaw: -73.0361938
     }
     Scale {
       X: 3
@@ -472,9 +480,9 @@ Objects {
   Name: "Candle Flame VFX"
   Transform {
     Location {
-      X: -29.752224
-      Y: -30.1559753
-      Z: -15.3929291
+      X: -7561.53271
+      Y: -30.1484375
+      Z: -15.3929443
     }
     Rotation {
     }
@@ -511,8 +519,8 @@ Objects {
   Name: "Candle Flame VFX"
   Transform {
     Location {
-      X: 29.8413258
-      Y: -30.1559753
+      X: -7501.94238
+      Y: -30.1503906
       Z: 2.7164917
     }
     Rotation {
@@ -550,12 +558,12 @@ Objects {
   Name: "Candle Flame VFX"
   Transform {
     Location {
-      X: -31.7481499
-      Y: 30.3926086
-      Z: -2.02870178
+      X: -7563.54
+      Y: 30.4008789
+      Z: -2.02868652
     }
     Rotation {
-      Yaw: 44.8072662
+      Yaw: 44.8072395
     }
     Scale {
       X: 3
@@ -590,7 +598,8 @@ Objects {
   Name: "Point Light"
   Transform {
     Location {
-      X: 0.234558105
+      X: -7531.55176
+      Y: 0.00537109375
       Z: 0.593292236
     }
     Rotation {
@@ -640,9 +649,9 @@ Objects {
   Name: "Candle Flame VFX"
   Transform {
     Location {
-      X: 30.7913208
-      Y: 30.6902161
-      Z: 1.85389709
+      X: -7500.99561
+      Y: 30.7006836
+      Z: 1.85388184
     }
     Rotation {
     }
@@ -679,6 +688,8 @@ Objects {
   Name: "Floor Candle Holder 03"
   Transform {
     Location {
+      X: -7531.78223
+      Y: 0.005859375
     }
     Rotation {
     }
@@ -746,6 +757,8 @@ Objects {
   Name: "Floor Candle Holder 02"
   Transform {
     Location {
+      X: -7531.77832
+      Y: 0.0068359375
     }
     Rotation {
     }
@@ -811,8 +824,9 @@ Objects {
   Name: "Point Light"
   Transform {
     Location {
-      X: 0.234558105
-      Z: 7.21635056
+      X: -7531.56885
+      Y: 0.0087890625
+      Z: 7.21633911
     }
     Rotation {
     }
@@ -861,7 +875,8 @@ Objects {
   Name: "Candle Flame VFX"
   Transform {
     Location {
-      X: -0.234558105
+      X: -7532.03564
+      Y: 0.00830078125
     }
     Rotation {
     }
@@ -957,8 +972,9 @@ Objects {
   Name: "Point Light"
   Transform {
     Location {
-      X: 0.234558105
-      Z: 7.21635056
+      X: -7531.53
+      Y: 0.00634765625
+      Z: 7.21633911
     }
     Rotation {
     }
@@ -1007,7 +1023,8 @@ Objects {
   Name: "Candle Flame VFX"
   Transform {
     Location {
-      X: -0.234558105
+      X: -7532.00684
+      Y: 0.0078125
     }
     Rotation {
     }
@@ -1044,6 +1061,8 @@ Objects {
   Name: "Floor Candle Holder 01"
   Transform {
     Location {
+      X: -7531.78223
+      Y: 0.005859375
     }
     Rotation {
     }

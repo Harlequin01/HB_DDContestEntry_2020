@@ -6,7 +6,7 @@ Objects {
   Transform {
     Location {
       X: 1186.24609
-      Y: -100
+      Y: 7431.8125
       Z: -40
     }
     Rotation {
@@ -45,11 +45,11 @@ Objects {
   Transform {
     Location {
       X: 1520
-      Y: -110
+      Y: 7421.8125
       Z: 4.99993896
     }
     Rotation {
-      Yaw: 164.999863
+      Yaw: 164.999802
     }
     Scale {
       X: 1
@@ -116,7 +116,9 @@ Objects {
   Name: "Fantasy Chest Treasure Pile 01"
   Transform {
     Location {
-      Z: 60
+      X: -3765.91821
+      Y: 6522.75537
+      Z: 60.0000038
     }
     Rotation {
       Pitch: -9.15527344e-05
@@ -170,7 +172,8 @@ Objects {
   Name: "Fantasy Chest Lid 02"
   Transform {
     Location {
-      Y: 45
+      X: -3765.91699
+      Y: 6567.75098
       Z: 65
     }
     Rotation {
@@ -209,6 +212,9 @@ Objects {
   Name: "Fantasy Chest Base 02"
   Transform {
     Location {
+      X: -3765.91821
+      Y: 6522.75537
+      Z: 3.81469727e-06
     }
     Rotation {
     }
@@ -277,6 +283,8 @@ Objects {
   Name: "Fantasy Chest Treasure Pile 01"
   Transform {
     Location {
+      X: -3765.91
+      Y: 6522.73633
       Z: 75
     }
     Rotation {
@@ -326,7 +334,8 @@ Objects {
   Name: "Fantasy Chest Lid 03"
   Transform {
     Location {
-      Y: 50
+      X: -3765.91187
+      Y: 6572.73145
       Z: 80
     }
     Rotation {
@@ -366,6 +375,9 @@ Objects {
   Name: "Fantasy Chest Base 03"
   Transform {
     Location {
+      X: -3765.91
+      Y: 6522.73633
+      Z: -3.81469727e-06
     }
     Rotation {
     }
@@ -403,7 +415,7 @@ Objects {
   Transform {
     Location {
       X: 1120
-      Y: -130.000488
+      Y: 7401.8125
       Z: 5.25387573
     }
     Rotation {
@@ -443,8 +455,8 @@ Objects {
   Transform {
     Location {
       X: 1256.24609
-      Y: -120.000488
-      Z: 5.25387955
+      Y: 7411.8125
+      Z: 5.25387573
     }
     Rotation {
       Yaw: 179.999954
@@ -483,8 +495,8 @@ Objects {
   Transform {
     Location {
       X: -335
-      Y: 61.3085938
-      Z: 5.25387955
+      Y: 7593.12109
+      Z: 5.25387573
     }
     Rotation {
       Yaw: 149.999954

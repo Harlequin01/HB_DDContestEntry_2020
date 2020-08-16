@@ -66,7 +66,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -2750
-            Y: -2300
+            Y: -9821
             Z: 25
           }
         }
@@ -146,7 +146,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -3000
-            Y: -2300
+            Y: -9821
             Z: 25
           }
         }
@@ -226,7 +226,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -3250
-            Y: -2300
+            Y: -9821
             Z: 25
           }
         }
@@ -306,7 +306,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -3500
-            Y: -2300
+            Y: -9821
             Z: 25
           }
         }
@@ -386,7 +386,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -3750
-            Y: -2300
+            Y: -9821
             Z: 25
           }
         }
@@ -466,7 +466,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -4000
-            Y: -2300
+            Y: -9821
             Z: 25
           }
         }
@@ -546,7 +546,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -4250
-            Y: -2300
+            Y: -9821
             Z: 25
           }
         }
@@ -626,7 +626,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -4500
-            Y: -2300
+            Y: -9821
             Z: 25
           }
         }
@@ -706,7 +706,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -4750
-            Y: -2300
+            Y: -9821
             Z: 25
           }
         }
@@ -778,7 +778,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -5000
-            Y: -2300
+            Y: -9821
             Z: 25
           }
         }
@@ -844,7 +844,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -5250
-            Y: -2300
+            Y: -9821
             Z: 25
           }
         }
