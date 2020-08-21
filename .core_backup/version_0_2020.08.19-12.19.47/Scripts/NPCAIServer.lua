@@ -88,6 +88,10 @@ local temporaryVisionRadius = nil
 local temporaryHearingRadius = nil
 	
 
+function ModifySpeed(newSpeed)
+	MOVE_SPEED = newSpeed
+end
+
 function SetState(newState)
 	--print("NewState = " .. newState)
 

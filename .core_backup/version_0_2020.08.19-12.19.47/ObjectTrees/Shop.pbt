@@ -800,6 +800,12 @@ Objects {
           Name: "cs:EquipmentName"
           String: "Basic 1H Sword"
         }
+        Overrides {
+          Name: "cs:EquipmentAsset"
+          AssetReference {
+            Id: 1913707083446292180
+          }
+        }
       }
     }
     TemplateAsset {

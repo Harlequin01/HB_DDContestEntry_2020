@@ -40,7 +40,7 @@ Assets {
           }
           Overrides {
             Name: "cs:MoveSpeed"
-            Float: 400
+            Float: 5000
           }
           Overrides {
             Name: "cs:TurnSpeed"
